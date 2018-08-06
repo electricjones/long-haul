@@ -16,13 +16,15 @@ navigation:
    url: /index.html
  - title: About
    url: /about
- - title: Contact
-   url: /contact
+ - title: Projects and Games
+   url: /projects
+ - title: Resources
+   url: /aweome-list.html
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: electricjones
+#   twitter: brianmaierjr
+#   facebook: brianmaierjr
+   email: electricjoneslab@gmail.com
 
 google_analytics: "UA-58263416-1"
