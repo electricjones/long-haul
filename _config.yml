@@ -20,6 +20,10 @@ navigation:
    url: /projects
  - title: Resources
    url: /awesome-game-studies
+ - title: Recent
+   url: /recent.html
+ - title: Contact
+   url: /contact.html
 
 social:
    github: electricjones
