@@ -805,6 +805,7 @@ HEADER STYLING
   background-size: cover;
   background-position: center center;
   color: white;
+  -webkit-text-stroke: 1px black;
   padding: 0;
   height: 3em; }
   .header .container {
@@ -818,9 +819,11 @@ HEADER STYLING
     line-height: 3em;
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
     font-weight: 800;
+    -webkit-text-stroke: 1px black;
     text-transform: uppercase; }
     .header h1 a {
       color: white;
+      -webkit-text-stroke: 1px black;
       text-decoration: none; }
 
 /***************
