@@ -21,9 +21,9 @@ navigation:
  - title: Resources
    url: /awesome-game-studies
  - title: Recent
-   url: /recent.html
+   url: /recent
  - title: Contact
-   url: /contact.html
+   url: /contact
 
 social:
    github: electricjones
