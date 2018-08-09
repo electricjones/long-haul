@@ -20,8 +20,8 @@ navigation:
    url: /projects
  - title: Resources
    url: /awesome-game-studies
- - title: Recent
-   url: /recent
+ - title: Blog
+   url: /blog
  - title: Contact
    url: /contact
 
