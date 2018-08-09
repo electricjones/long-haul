@@ -33,4 +33,4 @@ Research and development include toolsets and studies to promote the scientific 
 **Gamification: Conservation and Personal Responsibility**
 By way of application, I have a passion for conservation. Many of my projects and games revolve around this and related subjects.
 
-# Biography and C.V.
+## Biography and C.V.
