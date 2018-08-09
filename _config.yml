@@ -8,11 +8,11 @@ permalink: blog/:title/
 
 #markdown: kramdown
 highlighter: rouge
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jemoji]
 paginate: 5
 
-plugins:
-  - jemoji
+#plugins:
+#  - jemoji
 
 navigation:
  - title: Home
