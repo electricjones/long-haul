@@ -6,13 +6,10 @@ baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-#markdown: kramdown
+markdown: kramdown
 highlighter: rouge
 gems: [jekyll-paginate, jemoji]
 paginate: 5
-
-#plugins:
-#  - jemoji
 
 navigation:
  - title: Home

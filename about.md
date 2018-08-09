@@ -12,7 +12,6 @@ In reality, most everything revolves around **Transformational Stories and Games
 My specific interests are broadly:
 
 **Educational Gaming**
-:sweat_smile: :neckbeard:
 My research is rooted in Educational Psychology and Individual Differences. 
 I seek to understand what elements of game design are effective for different kinds of teaching and learning styles, subjects, and goals.
 Both in and out of the classroom.
