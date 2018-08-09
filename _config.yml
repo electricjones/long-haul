@@ -11,6 +11,9 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
 
+plugins:
+  - jemoji
+
 navigation:
  - title: Home
    url: /index.html
