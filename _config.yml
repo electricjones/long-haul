@@ -1,7 +1,7 @@
 title: Electric Jones
 description: My Research Site
 
-url: http://electricjones.github.com/
+url: http://electricjones.github.com
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
