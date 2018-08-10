@@ -2,14 +2,14 @@
 layout: default
 title: About Electric Jones
 ---
-I am a scholar, storyteller, gamer, game maker, and computer scientist.
-
+I am a scholar, storyteller, gamer, game maker, and computer scientist who focuses on the positive impacts of gaming on both individuals and society.
+My degrees are in Anthropology and Educational Psychology, and I am currently pursing a Ph.D. in Computer Science.
 
 ## Research Interests
-With a research background in [Anthropology](), [Educational Psychology](), [Fiction](), and [Computer Science](), my research can seem a bit -- disconnected.
+With a research background in Anthropology, Educational Psychology, Fiction, and Computer Science, my research can seem a bit -- disconnected.
 In reality, most everything revolves around **Transformational Stories and Games**, that is games and stories that are intentionally created to **Teach**, **Heal**, and promote **Community Action**.
 
-My specific interests are broadly:
+My specific interests are at the intersection of:
 
 **Educational Gaming**
 My research is rooted in Educational Psychology and Individual Differences. 
@@ -32,5 +32,3 @@ Research and development include toolsets and studies to promote the scientific 
 
 **Gamification: Conservation and Personal Responsibility**
 By way of application, I have a passion for conservation. Many of my projects and games revolve around this and related subjects.
-
-## Biography and C.V.
