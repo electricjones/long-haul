@@ -1,7 +1,9 @@
 # Projects and Games
 In alignment with my [research interests](/about) (and just because it's super fun), I lead and am involved in several, ongoing research projects and games.
 
-### Awesome Game Studies [resource] (SUBMODULE)
+**[Awesome Game Studies](/awesome-game-studies)**
+A community-driven awesome list of resources for gaming scholarship, art, and sciences. Focused on general Game Scholarship Theories, Videogames, and Tabletop games.
+
 **[Blog and Research Journal](/blog)**
 As I work through my Ph.D. in Computer Science, I will chronicle my learning experience. Informally.
 I also write essays, articles, guides, and musings about many topics including games, education, research, technology, and dragons (always there should be dragons).
