@@ -1,3 +1,6 @@
 [submodule "awesome-game-studies"]
 	path = awesome-game-studies
 	url = https://github.com/electricjones/awesome-game-studies.git
+[submodule "games-do-good-list"]
+	path = games-do-good-list
+	url = https://github.com/electricjones/games-do-good-list.git
