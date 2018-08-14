@@ -5,6 +5,10 @@ title: About Electric Jones
 I am a scholar, storyteller, gamer, game maker, and computer scientist who focuses on the positive impacts of gaming on both individuals and society.
 My degrees are in Anthropology and Educational Psychology, and I am currently pursing a Ph.D. in Computer Science.
 
+## Background
+- M.Ed. Educational Psychology from [Drury University](https://drury.edu) where I did my thesis on **Educational Storytelling** and specifically aligning story mediums to learning styles.
+- M.A. Anthropology from [University of Houston](https://uh.edu) where I conducted a participant-observation ethnography of anime fandom, and wrote a larger thesis about the use of stories to construct personal identity narratives.
+
 ## Research Interests
 With a research background in Anthropology, Educational Psychology, Fiction, and Computer Science, my research can seem a bit -- disconnected.
 In reality, most everything revolves around **Transformational Stories and Games**, that is games and stories that are intentionally created to **Teach**, **Heal**, and promote **Community Action**.
