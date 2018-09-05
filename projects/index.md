@@ -1,14 +1,14 @@
 # Projects and Games
 In alignment with my [research interests](/about) (and just because it's super fun), I lead and am involved in several, ongoing research projects and games.
 
-**[Awesome Game Studies](/awesome-game-studies)**
+**[Awesome Game Studies](https://github.com/electricjones/awesome-game-studies)**
 A community-driven awesome list of resources for gaming scholarship, art, and sciences. Focused on general Game Scholarship Theories, Videogames, and Tabletop games.
 
 **[Blog and Research Journal](/blog)**
 As I work through my Ph.D. in Computer Science, I will chronicle my learning experience. Informally.
 I also write essays, articles, guides, and musings about many topics including games, education, research, technology, and dragons (always there should be dragons).
 
-**[Games Do Good List](/games-do-good-list)**
+**[Games Do Good List](https://github.com/electricjones/games-do-good-list)**
 We often hear of potentials dangers games: people getting lost in fantasy, encouraging violence, loss of ambition, and on and on.
 These are the evidence-based and powerful voices on the other side. This list is a clearly one-sided collection of articles, stories, and research studies that show positive effects of videogames.
 But, this list is a collection of sound research that shows games do good, too.

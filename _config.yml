@@ -19,7 +19,7 @@ navigation:
  - title: Projects and Games
    url: /projects
  - title: Resources
-   url: /awesome-game-studies
+   url: https://github.com/electricjones/awesome-game-studies
  - title: Blog and Articles
    url: /blog
  - title: Contact
