@@ -4,11 +4,11 @@ description: My Research Site
 url: https://electricjones.github.com
 baseurl: ""
 paginate_path: "blog/page:num/"
-permalink: blog/:title/
+#permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
-gems: [jekyll-paginate, jemoji, jekyll-relative-links]
+gems: [jekyll-paginate, jemoji, jekyll-relative-links, jekyll-toc]
 paginate: 5
 
 navigation:

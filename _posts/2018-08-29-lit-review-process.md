@@ -3,9 +3,10 @@ layout: post
 title:  My Literature Review Process
 date:   2018-08-29 16:16:01 -0600
 tags: [research, research journal]
+toc: true
+excerpt: I describe my process for building a bibliography, related works, and literature review.
 ---
 
-> I describe my process for building a bibliography, related works, and literature review.
 > I describe a specific Literature Review in this process. You can see the finished result in [Literature Review of Gamification](./2018-09-06-gamification-literature-review.md)
 
 There are many resources out there for writing a literature review, most notably resources from University libraries. These are excellent:
@@ -27,7 +28,7 @@ A few notes:
     - A Literature Review can draw from these, but this is the part you share with other researchers. See the next section for more details about what it actually is.
 - Next week, I will post an example of a literature review I did for some papers my research group is submitting this month.
 
-## 1. Why do we do Literature Reviews?
+### 1. Why do we do Literature Reviews?
 - For those not in the field, but interested in the topic.
     - This should be a short introduction with just enough background and definition for someone in another field to be able to understand what's happening.
     For instance, many Computer Science papers cross into disciplines like Medicine because they are building medical applications. 
@@ -41,7 +42,7 @@ A few notes:
 - To prove you know what you are talking about.
 - Because they make you.
 
-## 2. Finding and Sorting Sources
+### 2. Finding and Sorting Sources
 I'm going to use an example as we walk through this. You can see the end result in [Literature Review of Gamification](./2018-09-06-gamification-literature-review.md)
 My research group recently submitted several papers that all dealt with gamification and game based learning, in some way.
 I was given the task of a basic literature review of gamification that we could draw from in the different papers.
@@ -54,7 +55,7 @@ I also try (once a week) to take 30-60 minutes to just skim through sources I've
 
 When searching for new things. I use Google Scholar first, and then a discipline specific site, and then something like JSTOR.
 
-### Hunting and Gather
+#### Hunting and Gather
 All that said, here's how I find my actual sources for a Review:
 
 1. write down the important topics I thought were important. 
@@ -68,7 +69,7 @@ In my case, things like "what is gamification?" "does it work?" "competition in 
 7. Search for the tings you listed above.
 8. Look through the "Works Cited" of anything you know you have so far.
 
-### Make Sense
+#### Make Sense
 Like I said, I use Zotero. It pulls the abstract already. I always read the abstract and then the conclusion first.
 This plus 
 
@@ -86,7 +87,7 @@ I am usually looking for something specific, like "this one should give me a goo
 
 All this is still based off of the topic list from Step 1.
  
-## 3. Structure Your Review
+### 3. Structure Your Review
 Now that I have a kind-of sorted source list, I think about the actual Review.
 
 I sort the topics list into sections. In my case, like: 
@@ -94,13 +95,13 @@ I sort the topics list into sections. In my case, like:
 - "Benefits of Gamification" 
 - "Gamification in Classrooms."
 
-## 4. Compiling Sources
+### 4. Compiling Sources
 Now, I can look through my sorted sources and start moving the quotes I've grabbed into the sections.
 This part is usually, literally copy-and-paste. I just move two definitions into the first part, two lists of benifits into the second, etc.
 
 I will look through the sources again and pull out the part that I find interesting. The things I think are important.
 
-## 5. Drafting Pass 1 and 2
+### 5. Drafting Pass 1 and 2
 Now, I have a totally plagiarized clipboard fire. I set that aside, structure my review again, and start the actuall writing.
 
 I will still pull in lots of quotes here. Reviews can have lots of quotes. Leave quotes long here.
@@ -118,12 +119,12 @@ Don't be afraid of lots of citations. That's what this is supposed to be.
 
 Zotero makes this easy. 
 
-## 6. Edit
+### 6. Edit
 Once I feel like it is complete and my own work (with good quotes), I can edit it and move it around, and polish.
 
 By the end, I have a standalone Literature Review on a topic that will be helpful not just for this project, but probably for the future.
 
-## 7. Cut and fit it into the paper
+### 7. Cut and fit it into the paper
 Now, it is time to look at your paper(s). Each paper has different requirements. 
 Again, think about the "Why Do We Do Literature Reviews" list, and think specifically about this paper.
 
@@ -136,7 +137,7 @@ Honestly, this hurts. Literature Reviews are important, but often a much shorter
 I have never made it through this process without cutting **at least half** of my Literature Review.
 But, I can use cut parts elsewhere. I've never felt like I **wasted** anything, as backwards as that sounds.
 
-## And That's It!
+### And That's It!
 That's how I approach Literature Reviews. It sounds like a lot (and it is), but it is doable, and effective.
 
 As a reference, in the companion review, I spent about:

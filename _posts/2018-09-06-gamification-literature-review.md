@@ -3,10 +3,9 @@ layout: post
 title:  Review of Literature for Gamification
 date:   2018-09-05 16:16:01 -0600
 tags: [research, research journal]
-excerpt: 
+excerpt: I describe my process for building a bibliography, related works, and literature review.
+toc: true
 ---
-
-> I describe my process for building a bibliography, related works, and literature review.
 
 In [My Literature Review Process](./2018-08-29-lit-review-process.md), I walked through an example of creating a literature review for a number of shared research papers. This is the final result. This review was cut up and used in at least three papers submitted to conferences and journals.
 
@@ -107,7 +106,7 @@ Sepehr and Head noted two other findings relating to gamified competition. First
 
 Finally, Yu, Han, and Chan [47] “researched the impact of anonymous team competitions on students’ “motivation, satisfaction, and interpersonal relationships” noting that anonymous competition (in this that specific context, at least) was “a desirable feature in the design of future competitive game–based learning systems.”[47]
 
-## Works Cited
+### Works Cited
 1. Banfield, James, and Brad Wilkerson. “Increasing Student Intrinsic Motivation and Self-Efficacy through Gamification Pedagogy.” Contemporary Issues in Education Research 7, no. 4 (2014): 291–98. https://doi.org/10/gd2z7r.
 2. Barrio, C. Morillas, M. Muñoz-Organero, and J. Sánchez Soriano. “Can Gamification Improve the Benefits of Student Response Systems in Learning? An Experimental Study.” IEEE Transactions on Emerging Topics in Computing 4, no. 3 (July 2016): 429–38. https://doi.org/10/gd3zg6.
 3. Berkling, K., and C. Thomas. “Gamification of a Software Engineering Course and a Detailed Analysis of the Factors That Lead to It’s Failure.” In 2013 International Conference on Interactive Collaborative Learning (ICL), 525–30, 2013. https://doi.org/10.1109/ICL.2013.6644642.

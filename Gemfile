@@ -4,3 +4,4 @@ gem "jekyll"
 gem "jekyll-paginate"
 gem "support-for"
 gem 'jekyll-relative-links'
+gem 'jekyll-toc'
