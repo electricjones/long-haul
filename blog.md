@@ -8,7 +8,6 @@ title: Electric Jones
     <p class="meta">
       <strong>Topics: </strong>
       {% if site.data.tags.manifest %}
-      yes
         {% assign comma = true %}
         {% for tag in site.data.tags.manifest %}
             <a href="/tags/{{ tag }}.html">{{ tag }}</a>
