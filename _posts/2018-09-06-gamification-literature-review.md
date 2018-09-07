@@ -4,10 +4,9 @@ title:  Review of Literature for Gamification
 date:   2018-09-05 16:16:01 -0600
 tags: [research, research journal]
 excerpt: I describe my process for building a bibliography, related works, and literature review.
-toc: true
 ---
 
-In [My Literature Review Process](./2018-08-29-lit-review-process.md), I walked through an example of creating a literature review for a number of shared research papers. This is the final result. This review was cut up and used in at least three papers submitted to conferences and journals.
+In [My Literature Review Process](2018-08-29-lit-review-process.md), I walked through an example of creating a literature review for a number of shared research papers. This is the final result. This review was cut up and used in at least three papers submitted to conferences and journals.
 
 ### Gamification and Gaming Principles
 Gamification is the act of applying the techniques found in game design to typically non-game domains such as business[44, 24, 15] and education[18, 27, 16]. While certainly not new, the rise of video games in the 1970s and 1980s brought a new emphasis and wave of research into gamification. In the last decade, great strides have been made in gamification of classrooms, technical learning, and computer science.

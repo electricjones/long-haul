@@ -3,11 +3,10 @@ layout: post
 title:  My Literature Review Process
 date:   2018-08-29 16:16:01 -0600
 tags: [research, research journal]
-toc: true
 excerpt: I describe my process for building a bibliography, related works, and literature review.
 ---
 
-> I describe a specific Literature Review in this process. You can see the finished result in [Literature Review of Gamification](./2018-09-06-gamification-literature-review.md)
+> I describe a specific Literature Review in this process. You can see the finished result in [Literature Review of Gamification](2018-09-06-gamification-literature-review.md)
 
 There are many resources out there for writing a literature review, most notably resources from University libraries. These are excellent:
 - [Literature Reviews](https://writingcenter.unc.edu/tips-and-tools/literature-reviews/) by University of North Carolina at Chapel Hill

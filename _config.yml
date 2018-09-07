@@ -8,7 +8,7 @@ paginate_path: "blog/page:num/"
 
 markdown: kramdown
 highlighter: rouge
-gems: [jekyll-paginate, jemoji, jekyll-relative-links, jekyll-toc]
+gems: [jekyll-paginate, jemoji, jekyll-relative-links]
 paginate: 5
 
 navigation:

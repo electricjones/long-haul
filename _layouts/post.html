@@ -10,8 +10,21 @@ layout: default
   <h1 class="postTitle">{{ page.title }}</h1>
   <p class="meta">
       {{ page.date | date: '%B %d, %Y' }}
-      | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
-      | <a href="#">gamification</a>, <a href="#">resources</a>, <a href="#">articles</a>
+      | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read
+      |
+      {% if page.tags %}
+        {% assign comma = true %}
+        {% for tag in page.tags %}
+            <a href="post.html">{{ tag }}</a>
+            {% if comma %}
+              ,
+                {% assign comma = false %}
+            {% else %}
+                {% assign comma = true %}
+            {% endif %}
+        {% endfor %}
+      {% endif %}
+  </p>
 
   {% if page.excerpt %}
     <blockquote><p>{{ page.excerpt}}</p></blockquote>
