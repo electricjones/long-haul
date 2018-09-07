@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  My Literature Review Process
-date:   2018-08-29 16:16:01 -0600
+title:  Review of Literature for Gamification
+date:   2018-09-05 16:16:01 -0600
 tags: [research, research journal]
 excerpt: I describe my process for building a bibliography, related works, and literature review.
 ---

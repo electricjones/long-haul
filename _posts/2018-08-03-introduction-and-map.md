@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  My Journey
-date:   2018-08-10 16:16:01 -0600
+title:  Introduction and Map
+date:   2018-08-03 -0600
 tags: [resources, research, classes, updating]
-excerpt: An almost-diary about my coursework in pursuit of a Ph.D. in Computer Software. I am largely engineering my own focus in `Games and Learning Sciences`, so I include additional course and independent study resources.
+excerpt: What to expect and how to navigate this blog.
 ---
 
 # EJ Blog Introduction
