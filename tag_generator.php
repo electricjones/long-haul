@@ -30,8 +30,7 @@ file_put_contents(__DIR__ . '/_data/tags.json', $json);
 
 // Create all the post topics
 foreach ($tags['manifest'] as $tag) {
-    $template = "
----
+    $template = "---
 layout: topic
 title: \"Tag: {$tag}\"
 tag: {$tag}
