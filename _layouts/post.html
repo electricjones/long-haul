@@ -15,7 +15,7 @@ layout: default
       {% if page.tags %}
         {% assign comma = true %}
         {% for tag in page.tags %}
-            <a href="post.html">{{ tag }}</a>
+            <a href="/tags/{{ tag }}.html">{{ tag }}</a>
             {% if comma %}
               ,
                 {% assign comma = false %}

@@ -38,9 +38,3 @@ tag: {$tag}
 ";
     file_put_contents(__DIR__ . '/tags/' . $tag . ".md", $template);
 }
-
-
-// Now I have a manifest
-// create topic page list layout
-// create each tag topic page that uses that layout
-// make sure my links work
