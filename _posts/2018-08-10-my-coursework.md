@@ -2,7 +2,7 @@
 layout: post
 title:  My Journey
 date:   2018-08-10 16:16:01 -0600
-tags: [resources, research, classes]
+tags: [resources, research, classes, updated]
 excerpt: An almost-diary about my coursework in pursuit of a Ph.D. in Computer Software. I am largely engineering my own focus in `Games and Learning Sciences`, so I include additional course and independent study resources.
 ---
 **Contents**: [Current Classes](#current-classes) | [Classes I Want to Take](#courses-i-want-to-take-(other-than-ph.d.)) | [Finished Classes](#finished-classes-(yay!))
@@ -10,7 +10,7 @@ excerpt: An almost-diary about my coursework in pursuit of a Ph.D. in Computer S
 # My Journey
 > "Life is a journey, not a destination.” - Ralph Waldo Emerson
 
-Not a big fan of Emerson, but it's a great quote. 
+I'm not a big fan of Emerson, but it's a great quote. 
 And -- when you're staring down the business of a Ph.D. -- that journey feels like it's going to take forever.
 
 This post is an almost-diary about my coursework in pursuit of a Ph.D. in Computer Software. 
@@ -61,10 +61,11 @@ Once I finish up with that course, I am going to go back into Accuplacer test pr
 
 I may also take [another Edx Pre-calculus Course](https://courses.edx.org/courses/course-v1:DelftX+Calc001x+3T2017/course/), but am not going to make that decision right now.
 
-## Additional Courses I Want to Take
+## Additional Courses
 - [CS50's Introduction to Game Development](https://courses.edx.org/courses/course-v1:HarvardX+CS50G+Games/course/)
 - [Instructional Design Models](https://courses.edx.org/courses/course-v1:USMx+LDT200x+1T2018_2/course/)
 - [Instructional Design and Technology: Learning Theories](https://courses.edx.org/courses/course-v1:USMx+LDT100x+2T2018/course/)
+
 
 - EdTechX: Educational Technology
     - [Implementation and Evaluation of Educational Technology](https://courses.edx.org/courses/course-v1:MITx+11.133x_2+2T2016/course/)
