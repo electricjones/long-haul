@@ -1,14 +1,14 @@
 title: Electric Jones
-description: My Research Site
+description: Game Sciences Research
 
-url: https://electricjones.github.com
+url: https://www.electricjones.org
 baseurl: ""
 paginate_path: "blog/page:num/"
 #permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
-gems: [jekyll-paginate, jemoji, jekyll-relative-links]
+gems: [jekyll-paginate, jemoji]
 paginate: 5
 
 navigation:
