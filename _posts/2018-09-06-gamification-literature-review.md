@@ -3,13 +3,14 @@ layout: post
 title:  Review of Literature for Gamification
 date:   2018-09-05 16:16:01 -0600
 tags: [research, research journal]
-excerpt: I describe my process for building a bibliography, related works, and literature review.
+excerpt: 
 ---
 
-# Literature Review for Gamification (emphasis on competition)
-> In [My Literature Review Process](./2018-08-29-lit-review-process.md), I walked through an example of creating a literature review for a number of shared research papers. This is the final result. This review was cut up and used in at least three papers submitted to conferences and journals.
+> I describe my process for building a bibliography, related works, and literature review.
 
-**Gamification and Gaming Principles**
+In [My Literature Review Process](./2018-08-29-lit-review-process.md), I walked through an example of creating a literature review for a number of shared research papers. This is the final result. This review was cut up and used in at least three papers submitted to conferences and journals.
+
+### Gamification and Gaming Principles
 Gamification is the act of applying the techniques found in game design to typically non-game domains such as business[44, 24, 15] and education[18, 27, 16]. While certainly not new, the rise of video games in the 1970s and 1980s brought a new emphasis and wave of research into gamification. In the last decade, great strides have been made in gamification of classrooms, technical learning, and computer science.
 
 Some of these experiences are mediated directly by technology, using software platforms, video games, and other digital tools. Others are more analog in their implementation, but still actively and intentionally seek to apply principles of game, play, and competition directly onto the learning experience.
@@ -42,7 +43,7 @@ Stott and Neustaedter [27] has a more condensed list of gamification principles,
 
 Clifford Lampe [28] sums up the basic principles of gamification to choice, rapid feedback, collaborative processes, and competition.
 
-**Benefits of Gamification**
+### Benefits of Gamification
 Gamification has been shown to have a dramatic effect on learning outcomes[8, 9, 30], primarily through increasing the student’s intrinsic motivation[1, 7, 32, 41].
 
 Extrinsic motivation drives a student to progress because of a grade or requirement, some external motivation.[31] Intrinsic motivation drives a student to attend class because “they hunger for more information, they want to be there, they are involved and their self-efficacy soars.”[12]
@@ -59,7 +60,7 @@ Cronk found that adding gamification elements to undergraduate learning increase
 
 In their experimental study, Barrio, Morillas, and Soriano showed “that the impact of variables such as learner motivation, attention and learning performance are significantly higher in those learners exposed to gamification techniques.”[2].
 
-**Gamification in Classrooms (generally)**
+### Gamification in Classrooms (generally)
 A number of case studies specifically concerning gamification in formal classroom studies have been undertaken in the last several years.
 
 Sanchez, Young, and Jouneau-Sion implemented a gamification platform called Classcraft for classroom management and reported positive feedback from both students and teachers. [35]
@@ -68,7 +69,7 @@ Flores and Figueroa describe many ways to gamify second language learning and hi
 
 Classroom gamification has been either proposed or implemented in education relating to pharmaceutical training [37], Literacy education [20], and many other domains.
 
-**Gamification in Computer Science Education**
+### Gamification in Computer Science Education
 While there have been many instances of gamification applied to formal educational settings, there are relatively few instances of the gamification of computer science education, either in formal classrooms or informal learning contexts.
 
 Perhaps the most used gamification of math and computer science education is Khan Academy. Morrison and DiSalvo [25] mapped Khan Academy’s use of gamification techniques (badges, progress bars, etc). Those techniques have undoubtedly helped Khan Academy reach more than 12 million active users every month[48] in 2017.
@@ -89,7 +90,7 @@ Finally, when discussing gamification of Computer Science courses, Berkling and 
 
 They show mixed results with no clear consensus, noting that “Students did not seem to be ready for autonomy,” and “gamification was viewed as unnecessary hindrance towards studying for the exams”.[3]
 
-**Competitive Gamification**
+### Competitive Gamification
 Most of the gamification we’ve discussed so far has been centered around either cooperative gamification or an individual-against-themselves from of gamification through progress and rewards. While students will invariably compare themselves to other student’s progress, the aim of these gamification techniques does not directly involve competition.
 
 Competitive gamification, however, is a powerful tool in the teaching toolbox. 
@@ -105,7 +106,6 @@ Sepehr and Head’s[36] research used surveys and focus groups in an MBA classro
 Sepehr and Head noted two other findings relating to gamified competition. First, “immediate feedback is an important predictor of engagement in places [where] competition is a driving factor. Immediacy of feedback allows students to compare their scores with their colleagues and fosters the competition.” Second, “the context that was studied also included cooperation, which is believed to be necessary to complement competition”[36] which resonates with (and is informed by) the conclusions of Tauer and Harackiewicz [42]. Cooperation and Competition need not be mutually exclusive and often work well together.
 
 Finally, Yu, Han, and Chan [47] “researched the impact of anonymous team competitions on students’ “motivation, satisfaction, and interpersonal relationships” noting that anonymous competition (in this that specific context, at least) was “a desirable feature in the design of future competitive game–based learning systems.”[47]
-
 
 ## Works Cited
 1. Banfield, James, and Brad Wilkerson. “Increasing Student Intrinsic Motivation and Self-Efficacy through Gamification Pedagogy.” Contemporary Issues in Education Research 7, no. 4 (2014): 291–98. https://doi.org/10/gd2z7r.

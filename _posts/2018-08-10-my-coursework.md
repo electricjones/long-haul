@@ -3,11 +3,11 @@ layout: post
 title:  My Journey
 date:   2018-08-10 16:16:01 -0600
 tags: [resources, research, classes, updated]
-excerpt: An almost-diary about my coursework in pursuit of a Ph.D. in Computer Software. I am largely engineering my own focus in `Games and Learning Sciences`, so I include additional course and independent study resources.
 ---
 **Contents**: [Current Classes](#current-classes) | [Classes I Want to Take](#courses-i-want-to-take-(other-than-ph.d.)) | [Finished Classes](#finished-classes-(yay!))
 
-# My Journey
+> An almost-diary about my coursework in pursuit of a Ph.D. in Computer Software. I am largely engineering my own focus in `Games and Learning Sciences`, so I include additional course and independent study resources.
+
 > "Life is a journey, not a destination.” - Ralph Waldo Emerson
 
 I'm not a big fan of Emerson, but it's a great quote. 

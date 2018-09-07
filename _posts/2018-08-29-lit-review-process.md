@@ -3,16 +3,11 @@ layout: post
 title:  My Literature Review Process
 date:   2018-08-29 16:16:01 -0600
 tags: [research, research journal]
-excerpt: I describe my process for building a bibliography, related works, and literature review.
 ---
 
+> I describe my process for building a bibliography, related works, and literature review.
 > I describe a specific Literature Review in this process. You can see the finished result in [Literature Review of Gamification](./2018-09-06-gamification-literature-review.md)
 
-**First Published**: August 29, 2018
-**Last Updated**: August 29, 2018
-**This post is [continuously updated](./updated.html)**
-
-# My Literature Review Process
 There are many resources out there for writing a literature review, most notably resources from University libraries. These are excellent:
 - [Literature Reviews](https://writingcenter.unc.edu/tips-and-tools/literature-reviews/) by University of North Carolina at Chapel Hill
 - [Guidelines for writing a literature review ](http://www.duluth.umn.edu/~hrallis/guides/researching/litreview.html) by University of Minnesota Duluth

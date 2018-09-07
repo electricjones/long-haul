@@ -3,10 +3,10 @@ layout: post
 title:  Introduction and Map
 date:   2018-08-03 -0600
 tags: [resources, research, classes, updating]
-excerpt: What to expect and how to navigate this blog.
 ---
 
-# EJ Blog Introduction
+> What to expect and how to navigate this blog.
+
 With all the noise on the interwebs, why is there yet another blog? In short, because I wanted there to be.
 
 I am a Game Sciences researcher, pursuing a Ph.D. in Computer Science with a Focus on Gaming Science.
@@ -22,7 +22,7 @@ For Game Studies and Game Sciences, the individual must cobble together threads 
 
 This blog -- this site -- is my attempt at centralizing some of those artifacts.
 
-## Blog Map
+### Blog Map
 - Resources
 - Guides
 - Personal Experiences
