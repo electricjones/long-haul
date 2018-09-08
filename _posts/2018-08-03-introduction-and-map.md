@@ -2,7 +2,7 @@
 layout: post
 title:  Introduction and Map
 date:   2018-08-03 -0600
-tags: [resources, research, classes, updating]
+tags: [guides, constantly-updated]
 excerpt: What to expect and how to navigate this blog.
 ---
 
