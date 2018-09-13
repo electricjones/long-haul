@@ -14,3 +14,8 @@ discussion: "Imapact or Serious Gaming?"
 
 *EJ website
     - about me
+    
+* Organize Syllabi
+* Organize bookmarks (esp to read and labs)
+* Organize Zotero Games
+* Organize from UH library

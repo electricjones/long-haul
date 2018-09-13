@@ -1,38 +1,36 @@
 ---
 layout: default
-title: About Electric Jones
+title: About Electric Jones (Michael)
 ---
+Howdy, my name is Michael Wilson.
+
 I am a scholar, storyteller, gamer, game maker, and computer scientist who focuses on the positive impacts of gaming on both individuals and society.
 My degrees are in Anthropology and Educational Psychology, and I am currently pursing a Ph.D. in Computer Science.
 
+My primary interests involve Machine Learning, Data Science, AI, and robotics, especially where they intersect with educational technology and gaming.
+I am also primely focused on creating tools around the educational topics of individual differences, knowledge representation, and differentiated instruction.
+
 ## Background
-- M.Ed. Educational Psychology from [Drury University](https://drury.edu) where I did my thesis on **Educational Storytelling** and specifically aligning story mediums to learning styles.
-- M.A. Anthropology from [University of Houston](https://uh.edu) where I conducted a participant-observation ethnography of anime fandom, and wrote a larger thesis about the use of stories to construct personal identity narratives.
+- M.Ed. Educational Psychology from [Drury University](https://drury.edu) where I did my thesis on **Educational Storytelling**.
+- M.A. Anthropology from [University of Houston](https://uh.edu) where I conducted a participant-observation ethnography of anime fandom, and wrote a larger thesis about constructing narrative identity.
 
 ## Research Interests
 With a research background in Anthropology, Educational Psychology, Fiction, and Computer Science, my research can seem a bit -- disconnected.
 In reality, most everything revolves around **Transformational Stories and Games**, that is games and stories that are intentionally created to **Teach**, **Heal**, and promote **Community Action**.
 
-My specific interests are at the intersection of:
+- Broadly:
+    - **Games and Curriculum**: Games *in* and *as* teaching strategies for both content engagement and skill acquisition, in and out of the classroom.
+    - **Game Development Democratization**: How can we democratize the game making process through better game development tools for the non-technical practitioner (teachers, etc.)
+    - **Adaptive/Differentiated Gaming and Data Mining**: Games that change based on data about a player, using procedural generation and machine learning
+    - **Digital/Analogue Game Hybrids**: Game controllers, feedback systems, and game design elements.
+    - **Game Analysis and Cultural Studies**: Narrative Identity, elements of gaming, textual and experiential analysis, gaming culture folklife.
 
-**Educational Gaming**
-My research is rooted in Educational Psychology and Individual Differences. 
-I seek to understand what elements of game design are effective for different kinds of teaching and learning styles, subjects, and goals.
-Both in and out of the classroom.
-
-I am also interested in game making platforms that allow for the democratization of educational gaming.
-Simple and effective tools and techniques that aide educational practitioners to integrate gaming into their teaching.
-
-**Adaptive Gaming and Data Mining**
-That is, put simply, games that change based on player factors. 
-In some ways, all games are adaptive, but I am interested in integrating modern data science techniques and procedurally generated content to provide rich gaming experiences based on a deep understanding of the player and a close reading of that player's progressions.
-So, the game gets to know you and builds itself around you. No two experiences are the same.
-
-**Virtual Reality Training and Simulation**
-My work with the [University of Houston Gaming Lab]() primarily concerns the application of Augmented and Virtual reality to training and assessment programs.
-
-**Citizen Science and Maker-ing**
-Research and development include toolsets and studies to promote the scientific process and way of thinking to the general public.
-
-**Gamification: Conservation and Personal Responsibility**
-By way of application, I have a passion for conservation. Many of my projects and games revolve around this and related subjects.
+- More specifically:
+    - Progression Systems, Skill Trees, and Learner Profiles as Data Structures and Algorithms
+    - High performance decision engines for games to aid in systemic and adaptive (ai-driven) gaming
+    - Procedural generation and animation based on Machine Learning
+    - High performance, large scale, geo-location based games (both in game engine and game design)
+    - Functional programming in game engine development
+    - Digital / analogue computer and human interfaces for mixed (digital and table top) gaming
+    - Innovative (robotic) input devices, and robotic gaming
+    
