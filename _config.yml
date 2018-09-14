@@ -3,13 +3,14 @@ description: Game Sciences Research Lab
 
 url: https://www.electricjones.org
 baseurl: ""
-paginate_path: "blog/page:num/"
+paginate: 3
+paginate_path: "/blog/page:num/"
 #permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate, jemoji]
-paginate: 2
+gems: [jekyll-paginate, jemoji]
 
 navigation:
  - title: Home

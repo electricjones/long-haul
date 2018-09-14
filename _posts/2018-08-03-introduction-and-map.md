@@ -35,8 +35,6 @@ But, this is also meant to be a window into my journey as I try to carve out my 
 Gaming is an important topic -- a central part of the human experience for virtually all people across all time.
 Gaming is worth studying, and that research **is being done**. Join us!
 
-### Topics:
-
 <p class="meta" style="align-content: center; text-align: center;">
   <strong>Topics</strong><br /> | 
   {% if site.data.tags.manifest %}
