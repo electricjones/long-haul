@@ -2,6 +2,7 @@
 layout: post
 title:  My Literature Review Process
 date:   2018-08-29 16:16:01 -0600
+image: pile-of-books.jpeg
 tags: [guides, how-to-research]
 excerpt: I describe my process for building a bibliography, related works, and literature review.
 ---

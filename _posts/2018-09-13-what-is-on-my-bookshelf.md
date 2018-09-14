@@ -2,6 +2,7 @@
 layout: post
 title:  What Is On My Bookshelf?
 date:   2018-09-13 16:16:01 -0600
+image: nature-grass-leaf-green.jpg
 tags: [constantly-updated, journal, how-to-research]
 excerpt: An up-to-date list of my Game and Learning Sciences Library, some other research texts, and books I want to get. Plus, of course, my games!
 ---

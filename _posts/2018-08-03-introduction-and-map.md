@@ -2,6 +2,7 @@
 layout: post
 title:  Introduction and Map
 date:   2018-08-03 -0600
+image: Map.jpeg
 tags: [start-here, guides, constantly-updated]
 excerpt: What to expect and how to navigate this blog.
 ---

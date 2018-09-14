@@ -2,6 +2,7 @@
 layout: post
 title:  My Journey
 date:   2018-08-10 16:16:01 -0600
+image: chalk-board.jpeg
 tags: [coursework, constantly-updated, journal]
 excerpt: An almost-diary about my coursework in pursuit of a Ph.D. in Computer Software. I am largely engineering my own focus in `Games and Learning Sciences`, so I include additional course and independent study resources.
 ---

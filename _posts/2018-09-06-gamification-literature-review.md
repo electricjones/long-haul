@@ -2,6 +2,7 @@
 layout: post
 title:  Review of Literature for Gamification
 date:   2018-09-05 16:16:01 -0600
+image: table-top-game.jpeg
 tags: [gamification, literature-reviews]
 excerpt: I describe my process for building a bibliography, related works, and literature review.
 ---
