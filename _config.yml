@@ -10,7 +10,7 @@ paginate_path: "/blog/page:num/"
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate, jemoji]
-gems: [jekyll-paginate, jemoji]
+#gems: [jekyll-paginate, jemoji]
 
 navigation:
  - title: Home
