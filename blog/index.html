@@ -1,13 +1,13 @@
 ---
-layout: post
-title: Electric Jones
+layout: default
+title: Blogs and Articles
 debug: true
 ---
 
 <div class="post" id="home">
   <h1 class="pageTitle">Blog</h1>
     <p class="meta" style="align-content: center; text-align: center;">
-      <strong>Topics</strong><br /> |
+      <strong>Topics</strong><br />
       {% if site.data.tags.manifest %}
         {% for tag in site.data.tags.manifest %}
         <a href="/tags/{{ tag }}.html">{{ tag }}</a> |
@@ -16,8 +16,8 @@ debug: true
     </p>
 
   <hr />
-
   Learn about the blog in the <a href="https://www.electricjones.org/2018/08/03/introduction-and-map.html">introduction and map</a>.
+  <hr />
 
 <ul class="posts noList">
     {% for post in paginator.posts %}
@@ -38,11 +38,6 @@ debug: true
     <span class="page_number ">
       Page: {{ paginator.page }} of {{ paginator.total_pages }}
     </span>
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Previous</a>
-    {% else %}
-      <span class="previous">Previous</span>
-    {% endif %}
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Next</a>
     {% else %}
