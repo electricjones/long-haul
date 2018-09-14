@@ -11,19 +11,15 @@ layout: default
   <p class="meta">
       {{ page.date | date: '%B %d, %Y' }}
       | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read
-      |
-      {% if page.tags %}
-        {% assign comma = true %}
-        {% for tag in page.tags %}
-            <a href="/tags/{{ tag }}.html">{{ tag }}</a>
-            {% if comma %}
-              ,
-                {% assign comma = false %}
-            {% else %}
-                {% assign comma = true %}
-            {% endif %}
-        {% endfor %}
-      {% endif %}
+      <br />
+      <span style="text-align: center">
+          {% if page.tags %}
+            <strong>Topics: </strong>
+            {% for tag in page.tags %}
+                | <a href="/tags/{{ tag }}.html">{{ tag }}</a> |
+            {% endfor %}
+          {% endif %}
+      </span>
   </p>
 
   {% if page.excerpt %}
