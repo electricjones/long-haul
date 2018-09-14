@@ -23,7 +23,6 @@ title: Electric Jones
     <hr />
 
   <ul class="posts noList">
-    {% assign i = 0 %}
     {% for post in site.posts %}
       {% if i < 3 %}
           <li>
@@ -32,8 +31,6 @@ title: Electric Jones
             <p class="description">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
           </li>
       {% endif %}
-
-      {% assign i = i + 1 %}
     {% endfor %}
   </ul>
 </div>
