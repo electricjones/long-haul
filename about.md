@@ -8,7 +8,7 @@ I am a scholar, storyteller, gamer, game maker, and computer scientist who focus
 My degrees are in Anthropology and Educational Psychology, and I am currently pursing a Ph.D. in Computer Science.
 
 My primary interests involve Machine Learning, Data Science, AI, and robotics, especially where they intersect with educational technology and gaming.
-I am also primely focused on creating tools around the educational topics of individual differences, knowledge representation, and differentiated instruction.
+I also focus on creating tools around the educational topics of individual differences, knowledge representation, and differentiated instruction.
 
 ## Background
 - M.Ed. Educational Psychology from [Drury University](https://drury.edu) where I did my thesis on **Educational Storytelling**.

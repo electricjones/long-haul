@@ -21,7 +21,9 @@ title: Electric Jones
       {% endif %}
     </p>
 
-    <hr />
+<hr />
+    
+Learn about the blog in the [introduction and map]({{ site.baseurl }}{% post_url 2018-08-03-introduction-and-map %}).
 
   <ul class="posts noList">
     {% for post in paginator.posts %}

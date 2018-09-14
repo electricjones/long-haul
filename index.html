@@ -4,6 +4,29 @@ title: Electric Jones
 ---
 
 <div class="home" id="home">
+
+    <p class="meta">
+      <strong>Topics: </strong>
+      {% if site.data.tags.manifest %}
+        {% assign comma = true %}
+        {% for tag in site.data.tags.manifest %}
+            <a href="/tags/{{ tag }}.html">{{ tag }}</a>
+            {% if comma %}
+              ,
+                {% assign comma = false %}
+            {% else %}
+                {% assign comma = true %}
+            {% endif %}
+        {% endfor %}
+      {% endif %}
+    </p>
+
+    <p>
+        Welcome to Electric Jones' Lab. I am a Game Sciences Researcher and avid gamer.
+        This site is dedicated to gathering important Game Studies research, promoting and introducing Game Sciences,
+        and being a window into my soul and research projects as I explore the overworld and many dungeons of academia.
+    </p>
+
   <ul class="posts noList">
     {% for post in site.posts %}
       <li>
