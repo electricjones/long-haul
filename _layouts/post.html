@@ -14,9 +14,10 @@ layout: default
       <br />
       <span style="text-align: center">
           {% if page.tags %}
-            <strong>Topics: </strong>
+            <strong>Topics</strong>
+            <br /> |
             {% for tag in page.tags %}
-                | <a href="/tags/{{ tag }}.html">{{ tag }}</a> |
+                <a href="/tags/{{ tag }}.html">{{ tag }}</a> |
             {% endfor %}
           {% endif %}
       </span>

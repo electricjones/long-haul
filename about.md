@@ -2,6 +2,9 @@
 layout: default
 title: About Electric Jones (Michael)
 ---
+
+<div style="align: center; text-align: center;"><img src="/assets/img/headshot.jpg" width="200"></div>
+
 Howdy, my name is Michael Wilson.
 
 I am a scholar, storyteller, gamer, game maker, and computer scientist who focuses on the positive impacts of gaming on both individuals and society.
