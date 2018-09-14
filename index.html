@@ -12,10 +12,10 @@ title: Electric Jones
     </p>
 
     <p class="meta" style="align-content: center; text-align: center;">
-      <strong>Topics</strong><br />
+      <strong>Topics</strong><br /> |
       {% if site.data.tags.manifest %}
         {% for tag in site.data.tags.manifest %}
-        | <a href="/tags/{{ tag }}.html">{{ tag }}</a> |
+        <a href="/tags/{{ tag }}.html">{{ tag }}</a> |
         {% endfor %}
       {% endif %}
     </p>
@@ -25,15 +25,13 @@ title: Electric Jones
   <ul class="posts noList">
     {% assign i = 0 %}
     {% for post in site.posts %}
-      {% if i > 3 %}
-         {% break %}
+      {% if i < 3 %}
+          <li>
+            <span class="date">{{ post.date | date_to_string }}</span>
+            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+            <p class="description">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+          </li>
       {% endif %}
-
-      <li>
-      	<span class="date">{{ post.date | date_to_string }}</span>
-      	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      	<p class="description">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
-      </li>
 
       {% assign i = i + 1 %}
     {% endfor %}

@@ -37,15 +37,11 @@ Gaming is worth studying, and that research **is being done**. Join us!
 
 ### Topics:
 
-{% if site.data.tags.manifest %}
-    {% assign comma = true %}
+<p class="meta" style="align-content: center; text-align: center;">
+  <strong>Topics</strong><br /> | 
+  {% if site.data.tags.manifest %}
     {% for tag in site.data.tags.manifest %}
-        <a href="/tags/{{ tag }}.html">{{ tag }}</a>
-        {% if comma %}
-          ,
-            {% assign comma = false %}
-        {% else %}
-            {% assign comma = true %}
-        {% endif %}
+    <a href="/tags/{{ tag }}.html">{{ tag }}</a> |
     {% endfor %}
-{% endif %}
+  {% endif %}
+</p>
