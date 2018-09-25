@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Journal - Introduction
+title: "Journal: Introduction"
 date: 2018-09-22 -0600
 image: diary-and-coffee.jpeg
 tags: [start-here, journal, constantly-updated]
