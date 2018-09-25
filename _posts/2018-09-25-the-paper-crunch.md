@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Journal: The Paper Crunch
+title: My Journal - The Paper Crunch
 date: 2018-09-25 -0630
 image: books-stress.jpeg
 tags: [journal, research]
