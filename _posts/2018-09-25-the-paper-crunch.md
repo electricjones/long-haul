@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  My Journal: The Paper Crunch
-date:  2018-08-03 -0600
-image: Map.jpeg
-tags: [journal]
+title: My Journal: The Paper Crunch
+date: 2018-09-25 -0630
+image: books-stress.jpeg
+tags: [journal, research]
 excerpt: Writing and submitting 4 papers in the space of a month...you get the idea.
 ---
 

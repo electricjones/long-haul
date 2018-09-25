@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  My Journey
+title:  My Coursework Journey
 date:   2018-08-10 16:16:01 -0600
 image: chalk-board.jpeg
 tags: [coursework, constantly-updated, journal]
