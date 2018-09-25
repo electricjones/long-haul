@@ -8,9 +8,9 @@ title: About Electric Jones (Michael)
 Howdy, my name is Michael Wilson.
 
 I am a scholar, storyteller, gamer, game maker, and computer scientist who focuses on the positive impacts of gaming on both individuals and society.
-My degrees are in Anthropology and Educational Psychology, and I am currently pursing a Ph.D. in Computer Science.
+My degrees are in Anthropology and Educational Psychology, and I am currently pursing a Ph.D. in Computer Science (with emphasis in Game Sciences).
 
-My primary interests involve Machine Learning, Data Science, AI, and robotics, especially where they intersect with educational technology and gaming.
+My primary interests involve Machine Learning, Data Science, AI, and robotics, especially where they intersect with educational technology, gaming, and human computer interaction.
 I also focus on creating tools around the educational topics of individual differences, knowledge representation, and differentiated instruction.
 
 ## Background
@@ -37,3 +37,6 @@ In reality, most everything revolves around **Transformational Stories and Games
     - Digital / analogue computer and human interfaces for mixed (digital and table top) gaming
     - Innovative (robotic) input devices, and robotic gaming
     
+PS: I'm also married to the most amazing person who has ever "person-ed."
+She is a gamer, a nerd, a cosplayer, a writer, and someone who cares deeply about the world around her.
+Check out her amazingness on her [instagram](https://instagram.com/31nwilson).

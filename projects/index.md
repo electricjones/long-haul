@@ -20,5 +20,6 @@ This is my toy research game. Built in Godot (because of its expandability and o
 Its an open world story about a wild-west-ish world where magic paint can change the attributes of the characters, world, and items.
 
 I am currently working on:
+- Better and more flexible progression maps, skill trees, and knowledge representations
 - A _High Performance Decision Engine_ to calculate and respond to systemic changes in environment and from player actions
 - _Procedural generation_ of tile maps
