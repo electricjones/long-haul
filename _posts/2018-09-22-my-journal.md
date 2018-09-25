@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  My Journal: Introduction
-date:   2018-08-03 -0600
+date:   2018-09-22 -0600
 image: Map.jpeg
 tags: [start-here, journal, constantly-updated]
 excerpt: What should you expect from my research journal? I don't know, either.
