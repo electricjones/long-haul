@@ -7,6 +7,8 @@ tags: [constantly-updated, journal, how-to-research]
 excerpt: An up-to-date list of my Game and Learning Sciences Library, some other research texts, and books I want to get. Plus, of course, my games!
 ---
 
+***Last updated on September 25, 2018***
+
 **Titles I do not yet have are in *italics***
 
 These are just highlights, and just of nonfiction. My wife and I have more than 2000 books, so I'm keeping it short.
@@ -18,13 +20,14 @@ I am just beginning to build my personal research library, and I'm super excited
 Also, take a look at [Awesome Game Studies](https://github.com/electricjones/awesome-game-studies) which I curate.
 
 ### Game Studies and Design
-- [An Introduction to Game Studies](https://books.google.com/books?id=XonWQB1vHDMC) by By Frans Mäyrä
+- [An Introduction to Game Studies](https://books.google.com/books?id=XonWQB1vHDMC) By Frans Mäyrä
+- [Man, Play, Games](https://books.google.com/books?id=bDjOPsjzfC4C) By Roger Caillois
 - *[Coming of Age in Second Life: An Anthropologist Explores the Virtually Human](https://books.google.com/books?id=jlLpCAAAQBAJ) By Tom Boellstorff*
 - *[Introduction to Game Analysis](https://books.google.com/books?id=BV4KBAAAQBAJ) By Clara Fernández-Vara*
-- *[Game Design Workshop: A Playcentric Approach to Creating Innovative Games](https://books.google.com/books?id=9kNnDwAAQBAJ) By by Tracy Fullerton 
+- *[Game Design Workshop: A Playcentric Approach to Creating Innovative Games](https://books.google.com/books?id=9kNnDwAAQBAJ) By by Tracy Fullerton*
 
 #### Impact Gaming and Games for Learning
-- [Using Games to Enhance Learning and Teaching: A Beginner's Guide](https://books.google.com/books?id=wniRbc74sTIC) edited by Nicola Whitton, Alex Moseley*
+- [Using Games to Enhance Learning and Teaching: A Beginner's Guide](https://books.google.com/books?id=wniRbc74sTIC) edited by Nicola Whitton, Alex Moseley
 
 ### Learning Sciences, Education, and Psychology
 - [Essentials of Psychology](https://books.google.com/books?id=wzqVPwAACAAJ) by Dennis Coon
