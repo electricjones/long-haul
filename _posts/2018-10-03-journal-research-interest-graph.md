@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Research Interest and Project Graph
+title: "Research Interest and Project Graph"
 date:  2018-10-03 -1800
-tags: [journal, research]
 image: interests-graph.jpeg
+tags: [journal, research]
 excerpt: A process to discover and a description of my various research interests and how they relate.
+---
 
 ***Note: This post represents my interests and (mostly dream) projects at a very specific point in time. For a more up to date digest, look at [About Me](https://www.electricjones.org/about) and [Projects/Games](https://www.electricjones.org/projects)***
 
