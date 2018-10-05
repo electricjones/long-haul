@@ -6,7 +6,7 @@ title: Electric Jones
 <div class="post" id="home">
 
     <p>
-        Welcome to Electric Jones' Lab. I am a Game Sciences Researcher and avid gamer.
+        2Welcome to Electric Jones' Lab. I am a Game Sciences Researcher and avid gamer.
         This site is dedicated to gathering important Game Studies research, promoting and introducing Game Sciences,
         describing my research projects, and being a window into my soul as I explore the overworld and many dungeons of academia.
     </p>
@@ -27,7 +27,7 @@ title: Electric Jones
       <li>
         <span class="date">{{ post.date | date_to_string }}</span>
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-          <img src="https://www.electricjones.org/assets/img/{{ post.image }}_100.jpeg" style="width: 125px; float: left; margin-right: 10px; clear:both;">
+          <img src="https://www.electricjones.org/assets/img/{{ post.image }}_100.jpeg" style="width: 150px; float: left; margin-right: 10px; clear:both;">
           <p class="description" style = "margin-left: 0px; overflow:auto; display:block;">{% if post.excerpt %}{{ post.excerpt  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
       </li>
     {% endfor %}
