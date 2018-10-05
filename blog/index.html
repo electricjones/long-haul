@@ -26,7 +26,7 @@ debug: true
         <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         <img src="https://www.electricjones.org/assets/img/{{ post.image }}_thumb.jpeg" style="width: 175px; float: left; margin-right: 10px; clear:both;">
         <p style = "margin-left: 0px; overflow:auto; display:block;">{% if post.excerpt %}{{ post.excerpt  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 200 }}{% endif %}</p>
-        <p style="clear:both; height: 0;"></p>
+        <p style="clear:both; height: 0; margin: 0 0 0 0;"></p>
       </li>
     {% endfor %}
   </ul>
