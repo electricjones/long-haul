@@ -2,7 +2,7 @@
 layout: post
 title: "Research Interest and Project Graph"
 date:  2018-10-03 -1800
-image: interests-graph.jpg
+image: interests-graph.jpeg
 tags: [journal, research]
 excerpt: A process to discover and a description of my various research interests and how they relate.
 ---
