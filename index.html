@@ -27,7 +27,7 @@ title: Electric Jones
       <li>
         <span class="date">{{ post.date | date_to_string }}</span>
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-          <img src="https://www.electricjones.org/assets/img/{{ post.image }}_100.jpeg" style="width: 200px; float: left; margin-right: 10px; clear:both;">
+          <img src="https://www.electricjones.org/assets/img/{{ post.image }}_thumb.jpeg" style="width: 175px; float: left; margin-right: 10px; clear:both;">
           <p class="description" style = "margin-left: 0px; overflow:auto; display:block;">{% if post.excerpt %}{{ post.excerpt  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
       </li>
     {% endfor %}
