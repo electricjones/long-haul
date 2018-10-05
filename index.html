@@ -25,11 +25,11 @@ title: Electric Jones
   <ul class="posts noList">
     {% for post in site.posts %}
       <li>
-        <span class="date">{{ post.date | date_to_string }}</span>
+        <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
           <img src="https://www.electricjones.org/assets/img/{{ post.image }}_thumb.jpeg" style="width: 175px; float: left; margin-right: 10px; clear:both;">
           <p class="description" style = "margin-left: 0px; overflow:auto; display:block;">{% if post.excerpt %}{{ post.excerpt  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 200 }}{% endif %}</p>
-          <p style="clear:both"></p>
+          <p style="clear:both; height: 0;"></p>
       </li>
     {% endfor %}
   </ul>
