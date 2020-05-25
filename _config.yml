@@ -17,12 +17,12 @@ navigation:
    url: /index.html
  - title: About
    url: /about
- - title: Projects and Games
-   url: /projects
- - title: Resources
-   url: https://github.com/electricjones/awesome-game-studies
- - title: Blog and Articles
-   url: /blog
+#  - title: Projects and Games
+#    url: /projects
+#  - title: Resources
+#    url: https://github.com/electricjones/awesome-game-studies
+#  - title: Blog and Articles
+#    url: /blog
  - title: Contact
    url: /contact
 
@@ -30,6 +30,6 @@ social:
    github: electricjones
 #   twitter: brianmaierjr
 #   facebook: brianmaierjr
-   email: electricjoneslab@gmail.com
+   email: mwilson@electricjones.org
 
 google_analytics: "UA-127061040-1"
