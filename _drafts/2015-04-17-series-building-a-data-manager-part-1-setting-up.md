@@ -1,17 +1,20 @@
 ---
 layout: post
 title:  Building a Data Manager Part I - Setting Up
-date:   2018-08-03 -0600
-tags: [literature-reviews, progression-systems, adaptive-gaming]
-excerpt: This post is part of The Future of Digital Content series, which discusses six traits I believe will be at the heart what content will look like in the coming years. These traits form a roadmap that lies at the heart of my research and experiments. The traits also work together, mixing and meshing, to paint a picture of how our future selves may read, watch, learn, and listen.
+date:   2015-04-09 -0600
+tags: [php, library, tutorial, tdd]
+excerpt: We begin data manager with some planning and get into Test Driven Development
 ---
 
-_This post is part of a series aimed at **beginning** PHP coders. Follow step-by-step from ground zero to build a simple [data manager](http://github.com/chrismichaels84/data-manager)._
+_This post is part of a series aimed at **beginning** PHP coders. Follow step-by-step from ground zero to build a simple [data manager](http://github.com/electricjones/data-manager)._
 
-_You can see the finished version for the first part at [chrismichaels84/data-manager/tree/tutorial-part-1](https://github.com/chrismichaels84/data-manager/tree/tutorial-part-1) or use the finished, feature-complete, supported DataManager at [chrismichaels84/data-manager](https://github.com/chrismichaels84/data-manager)_
+_You can see the finished version for the first part at [electricjones/data-manager/tree/tutorial-part-1](https://github.com/electricjones/data-manager/tree/tutorial-part-1) or use the finished, feature-complete, supported DataManager at [electricjones/data-manager](https://github.com/electricjones/data-manager)_
 
-_**Setting Up** - [Features and Contracts](http://chrismichaelsauthor.com/code/building-a-data-manager-part-ii/) - [Dot Notation](http://chrismichaelsauthor.com/blog/building-a-data-manager-part-iii/)_
+- **Setting Up** 
+- [Features and Contracts](% post_url 2015-04-23-series-building-a-data-manager-part-2-features %})
+- [Dot Notation](% post_url 2015-04-30-series-building-a-data-manager-part-3-dot-notation %})
 
+## Goals
 I decided to extract some core classes I've used in several of my projects into their own package, a [data-manager](https://github.com/chrismichaels84/data-manager). DataManager is a container that does exactly what it says: manages item data for things like configuration settings. It also handles dot notation and exceptions. It should:
 
 1.  Be stupid simple and lean -- no extra features or code
@@ -20,19 +23,15 @@ I decided to extract some core classes I've used in several of my projects into 
 4.  Handle deeply nested items through dot-notation (this.one.here)
 5.  Be super extendable super easily
 
-I worked for a few hours and cranked out exactly what I needed using Test Driven Development. You can [use the Manager](https://github.com/chrismichaels84/data-manager) freely from github or composer. But, I wanted to share my process. This series will lead you through, step-by-step, the entire creation workflow for a php composer package using Test Driven Development. This is great for beginners who want to see TDD in practice.
-
 ## Getting Started
 
 ### Step One: Create a new Repository
+I like to start directly from [Github](http://github.com). Login and create a new repository. I named my data-manager ([electricjones/data-manager](http://github.com/electricjones/data-manager)), gave it an MIT License, and a Composer .gitignore. Though it doesn't matter, We're about to override all this.
 
-I like to start directly from [Github](http://github.com). Login and create a new repository. I named my data-manager ([chrismichaels84/data-manager](http://github.com/chrismichaels84/data-manager)), gave it an MIT License, and a Composer .gitignore. Though it doesn't matter, We're about to override all this.
-
-Next, clone your repository locally so you can edit it more easily. I use [PHP Storm 8.2](https://www.jetbrains.com/phpstorm/), but Github's program and [Sublime Text](http://www.sublimetext.com/) works just as well. I'm going to assume you know how to do this. If not [Github's bootcamp](https://help.github.com/categories/bootcamp/) is the perfect place to start.
+Next, clone your repository locally so you can edit it more easily. I use [PHP Storm](https://www.jetbrains.com/phpstorm/), but Github's app and [Sublime Text](http://www.sublimetext.com/) works just as well. I'm going to assume you know how to do this. If not [Github's bootcamp](https://help.github.com/categories/bootcamp/) is the perfect place to start.
 
 ### Step Two: Create the Skeleton
-
-I'm a big fan of being lazy. If someone else has done it, I'm gonna steal it if I can, lol. In this case, the [League of Extraordinary Packages](http://thephpleague.com/) has done it right and _wants_ us to steal it. The League is a collective of php coders who share their work. Some really good work that is held to the highest standards. They have a [skeleton repo](https://github.com/thephpleague/skeleton) that gets all the boilerplate for a kick-ass composer package. It's also a good idea to take a look at the [PHP Package Checklist](http://phppackagechecklist.com/).
+I'm a big fan of being lazy. If someone else has done it, I'm gonna steal it if I can. In this case, the [League of Extraordinary Packages](http://thephpleague.com/) has done it right and _wants_ us to steal it. The League is a collective of php coders who share their work. Some really good work that is held to the highest standards. They have a [skeleton repo](https://github.com/thephpleague/skeleton) that gets all the boilerplate for a kick-ass composer package. It's also a good idea to take a look at the [PHP Package Checklist](http://phppackagechecklist.com/).
 
 Clone the skeleton repo (don't just download the zip file). Now, you can copy everything in the skeleton to your manager project. Overwrite anything that's already there.
 
@@ -61,7 +60,6 @@ You also ensure that you don't write any extra code. You only test what you need
 You'll see what I mean as we plow through. Check out [Laracasts](https://laracasts.com/collections/testing-in-php) or [this article](http://code.tutsplus.com/tutorials/test-driven-development-in-php-first-steps--net-25796) for great getting started lessons.
 
 ## Make a Plan
-
 I start every project by creating a PROPOSAL.md file where I figure out exactly what it is I want to do. My goals and what features I want. In this case:
 
 -   **C**reate, **R**etrieve, **U**pdate, and **D**elete single items or complex items (array)
@@ -72,10 +70,9 @@ I start every project by creating a PROPOSAL.md file where I figure out exactly 
 -   Allow for fallback values if get() no item
 
 ### Step Three: Work Out Your Basic API
-
 I also like to sketch out a basic API for the class (usually in the proposal):
 
-[code language="php"]  
+```php
 $manager = new MichaelsDataManager();  
 $manager->add('name', $item);  
 $manager->add(['name' => $item, 'name2' => $item2]);  
@@ -91,29 +88,25 @@ $manager->remove('name');
 $manager->remove('namespace.name');  
 $manager->has('item'); // true or false  
 $manager->exists('item'); // same as above  
-[/code]
-
-While we're at it, let's [extract it to an interface](https://github.com/chrismichaels84/data-manager/blob/master/src/DataManagerInterface.php) to src/DataManagerInterface.php and docblock everything.
+```
 
 ## Give Me Some Code, Already!
-
 I hear you. We are finally ready to start coding. It may seem like a lot, but all this preliminary stuff is important, will make our lives so much easier, and will get faster with practice.
 
 ### Step Four: Write and Fail Your First Test
+Inside `/tests` create `DataManagerTest.php`
 
-Inside "/tests" create "DataManagerTest.php"
-
-[code language="php"]  
+```php
 namespace MichaelsManagerTest;
 
 class DataManagerTest extends \PHPUnit_Framework_TestCase  
 {  
-public function testMyFirstFeature()  
-{  
-$this->assertTrue(true);  
+    public function testMyFirstFeature()  
+    {  
+        $this->assertTrue(true);  
+    }  
 }  
-}  
-[/code]
+```
 
 Be sure to change the namespace!
 
@@ -123,22 +116,22 @@ Once PHPUnit is installed, we can run "phpunit" from the terminal.
 
 All is great! Except we don't want it to be. Remember we actually want to fail our first test. It passes because we aren't actually testing anything. Let's change that.
 
-[code language="php"]  
+```php
 namespace MichaelsManagerTest;  
 use MichaelsManagerDataManager as Manager;
 
 class DataManagerTest extends PHPUnit_Framework_TestCase  
 {  
-public function testAddSingleItem()  
-{  
-$manager = new Manager();  
-$manager->add('alias', 'value');
+    public function testAddSingleItem()  
+    {  
+        $manager = new Manager();  
+        $manager->add('alias', 'value');
 
-$this->assertArrayHasKey('alias', $manager->getAll(), 'Array Items does not have key `alias`');  
-$this->assertEquals('value', $manager->get('alias'), 'Failed to get a single item');  
+        $this->assertArrayHasKey('alias', $manager->getAll(), 'Array Items does not have key `alias`');  
+        $this->assertEquals('value', $manager->get('alias'), 'Failed to get a single item');  
+    }  
 }  
-}  
-[/code]
+```
 
 Here, we are testing a few things. First, we create a new Manager instance. Then, we try to add a string called "alias" with a value "value". We test to see if that has worked by getting all the values from the Manager and making sure "alias" is one of them and then trying to get "alias" by itself and ensuring that the value is correct.
 
@@ -148,37 +141,34 @@ Give it a whirl! Run phpunit". What? Fatal error? Of course, we haven't actually
 
 Create "DataManager.php" inside "/src" with our three testable methods that do nothing right now. Don't implement any interfaces quite yet.
 
-[code language="php"]  
+```php
 namespace MichaelsManager;
 
 /**  
 * Manages Basic Items  
-*  
-* @package MichaelsMidas  
 */  
 class DataManager  
 {  
-public function add($alias, $item)  
-{  
-return $this;  
-}
+    public function add($alias, $item)  
+    {  
+        return $this;  
+    }
 
-public function get($alias)  
-{  
-return false;  
-}
+    public function get($alias)  
+    {  
+        return false;  
+    }
 
-public function getAll()  
-{  
-return [];  
+    public function getAll()  
+    {  
+        return [];  
+    }  
 }  
-}  
-[/code]
+```
 
 Now when we run this test, it will not give us any errors, but it will fail. That's actually what we want!
 
 ### Step Five: Pass Your First Test
-
 Alright, let's make DataManager do something. Remember, we are trying to do the least amount possible to make this one test pass.
 
 1.  Start by creating a protected property called $items and set it to an array.
@@ -188,38 +178,34 @@ Alright, let's make DataManager do something. Remember, we are trying to do the 
 
 So, your DataManager class looks like:
 
-[code language="php"]  
+```php
 namespace MichaelsManager;
 
 /**  
 * Manages Basic Items  
-*  
-* @package MichaelsMidas  
 */  
 class DataManager  
 {  
-protected $items = [];
+    protected $items = [];
 
-public function add($alias, $item)  
-{  
-$this->items[$alias] = $item;  
-return $this;  
-}
+    public function add($alias, $item)  
+    {  
+        $this->items[$alias] = $item;  
+        return $this;  
+    }
 
-public function get($alias)  
-{  
-return $this->items[$alias];  
-}
+    public function get($alias)  
+    {  
+        return $this->items[$alias];  
+    }
 
-public function getAll()  
-{  
-return $this->items;  
+    public function getAll()  
+    {  
+        return $this->items;  
+    }  
 }  
-}  
-[/code]
+```
 
 And viola! When we run "phpunit" our tests are green. We have successfully managed some data. Don't forget to DocBlock your methods.
-
-You can see the finished version for the first part at [https://github.com/chrismichaels84/data-manager/tree/tutorial-part-1](https://github.com/chrismichaels84/data-manager/tree/tutorial-part-1) or use the finished, feature-complete, supported DataManager at [https://github.com/chrismichaels84/data-manager](https://github.com/chrismichaels84/data-manager)
 
 From here on, we are just going to repeat this project until all our goals are complete and our API is functional including dot notation. Hope to see you next time!
