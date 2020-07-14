@@ -21,8 +21,8 @@ navigation:
 #    url: /projects
 #  - title: Resources
 #    url: https://github.com/electricjones/awesome-game-studies
-#  - title: Blog and Articles
-#    url: /blog
+ - title: Blog and Articles
+   url: /blog
  - title: Contact
    url: /contact
 
