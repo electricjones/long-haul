@@ -12,7 +12,7 @@ _This post is part of a series aimed at **beginning** PHP coders. Follow step-by
 _You can see the finished version for the first part at [electricjones/data-manager/tree/tutorial-part-3](https://github.com/electricjones/data-manager/tree/tutorial-part-3) or use the finished, feature-complete, supported DataManager at [electricjones/data-manager](https://github.com/electricjones/data-manager)_
 
 - [Setting Up]({% post_url 2015-04-17-series-building-a-data-manager-part-1-setting-up %}) 
-- [Features and Contracts](% post_url 2015-04-23-series-building-a-data-manager-part-2-features %})
+- [Features and Contracts]({% post_url 2015-04-23-series-building-a-data-manager-part-2-features %})
 - **Dot Notation**
 
 In the previous posts, we build a data manager from scratch using Test Driven Development. There are two features we have left to implement: deeply nested values via dot notation and throwing exceptions as needed. You can review the source code and lessons for the earlier bits, but this tutorial should stand on its own fairly well.
@@ -44,7 +44,7 @@ $array = [
 
 With dot notation, we can easily dig deep into our Manager object. We want to be able to Create, Retrieve, Update, and Delete using dot notation. So, let's get cracking.
 
-# Step Thirteen: Creating Our Tests
+### Step Thirteen: Creating Our Tests
 
 In this case, I want to create all of our tests at once so we know exactly what we're getting into. I am sure we will create some private helper methods that we will reuse and it's always good to have an overview of what will happen.
 
@@ -169,7 +169,7 @@ foreach (explode('.', $alias) as $step) {
 
 We are going to modify this basic control structure (and use a while loop variant) to do all of our nesting. Note that even if an alias does not have a dot (and therefore refers to the top level), the loop will still execute once. That means we don't need to check if an alias is nested. We can just treat all aliases as nested and the method will return the correct value.
 
-# Step Fourteen: Adding Nested Items
+### Step Fourteen: Adding Nested Items
 
 Let's get our feet wet. Our add() method now is
 
@@ -210,7 +210,7 @@ First, we set a temporary location variable to refer to our items array. Second,
 
 For now, comment out the other three tests, run phpunit, and watch everything pass.
 
-# Step Fifteen: Check the Existence of Nested Items
+### Step Fifteen: Check the Existence of Nested Items
 
 Since we are going to want to check the existence of things before we get or remove them (in order to avoid "index not found" errors), let's whip this one out first.
 
@@ -242,7 +242,7 @@ public function exists($alias)
 
 This passes our second test, and breaks no other tests. Well done.
 
-# Step Sixteen: Getting a Nested Item
+### Step Sixteen: Getting a Nested Item
 
 Right now we're looking at
 
@@ -293,7 +293,7 @@ if ($exists) {
 }
 ```
 
-# Step Seventeen: Remove a Nested Value
+### Step Seventeen: Remove a Nested Value
 
 That brings us to the last of our CRUD for nested values. I'll be honest. This one stumped me for a moment. I tried a simple foreach, found that foreach was going through ALL the items in the . I googled it and found Laravel's Array Helpers which led me to this solution:
 

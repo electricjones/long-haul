@@ -2,6 +2,7 @@
 layout: post
 title:  Building a Data Manager Part I - Setting Up
 date:   2015-04-09 -0600
+image: datablog_stall.jpg
 tags: [php, library, tutorial, tdd]
 excerpt: We begin data manager with some planning and get into Test Driven Development
 ---
@@ -11,11 +12,11 @@ _This post is part of a series aimed at **beginning** PHP coders. Follow step-by
 _You can see the finished version for the first part at [electricjones/data-manager/tree/tutorial-part-1](https://github.com/electricjones/data-manager/tree/tutorial-part-1) or use the finished, feature-complete, supported DataManager at [electricjones/data-manager](https://github.com/electricjones/data-manager)_
 
 - **Setting Up** 
-- [Features and Contracts](% post_url 2015-04-23-series-building-a-data-manager-part-2-features %})
-- [Dot Notation](% post_url 2015-04-30-series-building-a-data-manager-part-3-dot-notation %})
+- [Features and Contracts]({% post_url 2015-04-23-series-building-a-data-manager-part-2-features %})
+- [Dot Notation]({% post_url 2015-04-30-series-building-a-data-manager-part-3-dot-notation %})
 
 ## Goals
-I decided to extract some core classes I've used in several of my projects into their own package, a [data-manager](https://github.com/chrismichaels84/data-manager). DataManager is a container that does exactly what it says: manages item data for things like configuration settings. It also handles dot notation and exceptions. It should:
+I decided to extract some core classes I've used in several of my projects into their own package, a [data-manager](https://github.com/electricjones/data-manager). DataManager is a container that does exactly what it says: manages item data for things like configuration settings. It also handles dot notation and exceptions. It should:
 
 1.  Be stupid simple and lean -- no extra features or code
 2.  **C**reate, **R**etrieve, **U**pdate, **D**elete and confirm/deny single items or complex items (array)
