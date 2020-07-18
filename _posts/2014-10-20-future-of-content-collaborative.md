@@ -8,6 +8,13 @@ excerpt: Content will be a collaboration, both of multiple creators and of the c
 
 ## The Future of Content
 I introduce The Future of Digital Content series, which discusses six traits I believe will be at the heart what content will look like in the coming years.
+- [Introduction to the Series]({% post_url 2014-08-03-series-future-of-content %})
+- [Multi-Access]({% post_url 2014-08-21-future-of-content-multi-access %})
+- [Mixed Media and Multimodal]({% post_url 2014-09-15-future-of-content-mixed-media %})
+- [Interactive]({% post_url 2014-10-02-future-of-content-interactive %})
+- **Collaborative**
+- [Social]({% post_url 2014-11-20-future-of-content-social %})
+- [Immersive and Expansive]({% post_url 2015-01-07-future-of-content-immersive %})
 
 ## What Does Collaborative Content Mean?
 _noun: **collaboration**; plural noun: **collaborations**_

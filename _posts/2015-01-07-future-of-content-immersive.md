@@ -8,6 +8,13 @@ excerpt: Content will be move far beyond simple, single narratives into universe
 
 ## The Future of Content
 I introduce The Future of Digital Content series, which discusses six traits I believe will be at the heart what content will look like in the coming years.
+- [Introduction to the Series]({% post_url 2014-08-03-series-future-of-content %})
+- [Multi-Access]({% post_url 2014-08-21-future-of-content-multi-access %})
+- [Mixed Media and Multimodal]({% post_url 2014-09-15-future-of-content-mixed-media %})
+- [Interactive]({% post_url 2014-10-02-future-of-content-interactive %})
+- [Collaborative]({% post_url 2014-10-20-future-of-content-collaborative %})
+- [Social]({% post_url 2014-11-20-future-of-content-social %})
+- **Immersive and Expansive**
 
 Stories have universes, and we want to explore more than just the small part we see in a video or read in a book. Immersive means that we will be able to surround ourselves and explore content on our own terms. Expansive means that content will link together with other content.
 
