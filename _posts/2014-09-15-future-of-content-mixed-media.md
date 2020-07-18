@@ -8,7 +8,7 @@ excerpt: Content will be of a single narrative universe across many presentation
 
 ## The Future of Content
 I introduce The Future of Digital Content series, which discusses six traits I believe will be at the heart what content will look like in the coming years.
-- [Introduction to the Series]({% 2014-08-03-series-future-of-content %})
+- [Introduction to the Series]({% post_url 2014-08-03-series-future-of-content %})
 - [Multi-Access]({% post_url 2014-03-21-future-of-content-multi-access %})
 - **Mixed Media and Multimodal**
 - [Interactive]({% post_url 2014-10-02-future-of-content-interactive %})

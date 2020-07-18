@@ -9,7 +9,12 @@ excerpt: Content will be driven by accessing the same narrative in unique, taylo
 ## The Future of Content
 I introduce The Future of Digital Content series, which discusses six traits I believe will be at the heart what content will look like in the coming years.
 - [Introduction to the Series]({% post_url 2014-08-03-series-future-of-content %})
-- **Multi-Access
+- **Multi-Access**
+- [Mixed Media and Multimodal]({% post_url 2014-09-15-future-of-content-mixed-media %})
+- [Interactive]({% post_url 2014-10-02-future-of-content-interactive %})
+- [Collaborative]({% post_url 2014-10-20-future-of-content-collaborative %})
+- [Social]({% post_url 2014-11-20-future-of-content-social %})
+- [Immersive and Expansive]({% post_url 2015-01-07-future-of-content-immersive %})
 
 
 ## We Want It Our Way
@@ -61,3 +66,4 @@ The most interesting content of the future will employ some combination of these
 
 This trend is not restricted to digital content. Multi-access means _multiple_ access which, of course, **should** include print, audio, live action, and any number of other creative mediums.
 
+_**Next, let's look at [Mixed Media.]({% post_url 2014-09-15-future-of-content-mixed-media %})**_
