@@ -21,17 +21,3 @@ I focus **six traits of content in the future**. These traits are my roadmap in 
 ### 1. [Multi-Access]({% post_url 2014-08-21-future-of-content-multi-access %})
 You want your content your way. And you want to access your content in multiple ways.
 
-### 2. [Mixed Media and Multimodal]({% post_url 2014-09-15-future-of-content-mixed-media %})
-Content will not just be one thing. A story will alternate between pictures, text, and audio. Articles will include videos. And they will engage more than just one or two senses.
-
-### 3. [Interactive]({% post_url 2014-10-02-future-of-content-interactive %})
-Bonus features and behind-the-scenes videos are interactive, but what about letting the reader actually change the story as it goes. Or movies where the audience talks with the characters. Oh, and personalized, too.
-
-### 4. [Collaborative]({% post_url 2014-10-20-future-of-content-collaborative %})
-Maker and Audience are distinctions that are starting to fade. We can all work together to build content that is something unlike any one person could have planned.
-
-### 5. [Social]({% post_url 2014-11-20-future-of-content-social %})
-Yes, content will be shared, tweeted, digged, forked, thrown, liked, hated, reviewed, and even more. Content will be integrated into life.
-
-### 6. [Immersive and Expansive]({% post_url 2015-01-07-future-of-content-immersive %})
-Stories have universes, and we want to explore more than just the small part we see in a video or read in a book. Immersive means that we will be able to surround ourselves and explore content on our own terms. Expansive means that content will link together with other content.
