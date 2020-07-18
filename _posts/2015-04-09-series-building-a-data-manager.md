@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Series - Building a Data Manager
-date:   2015-04-09 -0600
+date:   2015-04-09
 image: datablog_stall.jpg
 tags: [php, library, tutorial]
 excerpt: An introduction to TDD and Library Building in PHP by creating a full data manager with array access, dot notation, and helpers.
@@ -21,6 +21,6 @@ _You can see the finished version of this tutorial at [electricjones/data-manage
 
 
 ### Series Contents
-1.  [Setting Up]({% post_url 2015-04-17-series-building-a-data-manager-part-1-setting-up %}) - Define our goals and get our skeleton in place
+<!-- 1.  [Setting Up]({% post_url 2015-04-17-series-building-a-data-manager-part-1-setting-up %}) - Define our goals and get our skeleton in place
 2.  [Features and Contracts]({% post_url 2015-04-23-series-building-a-data-manager-part-2-features %}) - Define our API and get some core functionality
-3.  [Dot Notation]({% post_url 2015-04-30-series-building-a-data-manager-part-3-dot-notation %}) - Dig deep into array structures (one.two.three)
+3.  [Dot Notation]({% post_url 2015-04-30-series-building-a-data-manager-part-3-dot-notation %}) - Dig deep into array structures (one.two.three) -->
