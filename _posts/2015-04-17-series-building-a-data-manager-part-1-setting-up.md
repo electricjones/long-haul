@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Building a Data Manager Part I - Setting Up
-date:   2015-04-09 -0600
+title:  "Building a Data Manager Part I - Setting Up"
+date:   2015-04-09 16:16:01 -0600
 image: datablog_stall.jpg
 tags: [php, library, tutorial, tdd]
 excerpt: We begin data manager with some planning and get into Test Driven Development
