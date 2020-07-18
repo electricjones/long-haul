@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Series - The Future of Content
+title: "Series - The Future of Content"
 date: 2014-08-03 -0600
 tags: [media, future, storytelling, research, series, start-here, human-computer-interaction]
 excerpt: I introduce The Future of Digital Content series, which discusses six traits I believe will be at the heart what content will look like in the coming years.
@@ -18,7 +18,7 @@ This series explores what the future of digital content might look like. How wil
 
 I focus **six traits of content in the future**. These traits are my roadmap in most of my research, stories, and experiments. I would like to share them with you and get feedback on how _you_ think content will evolve.
 
-
+<!-- 
 ### 1. [Multi-Access]({% post_url 2014-03-21-future-of-content-multi-access %})
 You want your content your way. And you want to access your content in multiple ways.
 
@@ -35,4 +35,4 @@ Maker and Audience are distinctions that are starting to fade. We can all work t
 Yes, content will be shared, tweeted, digged, forked, thrown, liked, hated, reviewed, and even more. Content will be integrated into life.
 
 ### 6. [Immersive and Expansive]({% post_url 2015-01-07-future-of-content-immersive %})
-Stories have universes, and we want to explore more than just the small part we see in a video or read in a book. Immersive means that we will be able to surround ourselves and explore content on our own terms. Expansive means that content will link together with other content.
+Stories have universes, and we want to explore more than just the small part we see in a video or read in a book. Immersive means that we will be able to surround ourselves and explore content on our own terms. Expansive means that content will link together with other content. -->
