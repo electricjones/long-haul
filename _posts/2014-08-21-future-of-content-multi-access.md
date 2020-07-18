@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Future of Content - Multi Access
+title: "The Future of Content - Multi Access"
 date:   2014-08-21 -0600
 tags: [media, future, storytelling, research, access, human-computer-interaction]
 excerpt: Content will be driven by accessing the same narrative in unique, taylored, and diverse ways across multiple platforms.
@@ -8,13 +8,9 @@ excerpt: Content will be driven by accessing the same narrative in unique, taylo
 
 ## The Future of Content
 I introduce The Future of Digital Content series, which discusses six traits I believe will be at the heart what content will look like in the coming years.
-- [Introduction to the Series]({% 2014-08-03-series-future-of-content %})
+- [Introduction to the Series]({% post_url 2014-08-03-series-future-of-content %})
 - **Multi-Access
-- [Mixed Media and Multimodal]({% post_url 2014-09-15-future-of-content-mixed-media %})
-- [Interactive]({% post_url 2014-10-02-future-of-content-interactive %})
-- [Collaborative]({% post_url 2014-10-20-future-of-content-collaborative %})
-- [Social]({% post_url 2014-11-20-future-of-content-social %})
-- [Immersive and Expansive]({% post_url 2015-01-07-future-of-content-immersive %})
+
 
 ## We Want It Our Way
 Our first brick in our roadmap is the idea of mulit-access content. You've heard a lot about this lately, mostly from entertainment companies promising your movie on all your devices. And, yes, that's a big part of what Multi-Access Content will mean. But it's also only the beginning. Bill Gates once said that content (substance) is king. I agree. A new study by Google adds to that equation by saying, "[Multiscreen is Queen](http://techcrunch.com/2012/08/29/if-content-is-king-multiscreen-is-the-queen-says-new-google-study/?icid=art_next)."
@@ -65,4 +61,3 @@ The most interesting content of the future will employ some combination of these
 
 This trend is not restricted to digital content. Multi-access means _multiple_ access which, of course, **should** include print, audio, live action, and any number of other creative mediums.
 
-_**Next, let's look at [Mixed Media.]({% post_url 2014-09-15-future-of-content-mixed-media %})**_

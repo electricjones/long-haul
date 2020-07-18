@@ -18,5 +18,5 @@ This series explores what the future of digital content might look like. How wil
 
 I focus **six traits of content in the future**. These traits are my roadmap in most of my research, stories, and experiments. I would like to share them with you and get feedback on how _you_ think content will evolve.
 
-### 1. [Multi-Access]({% post_url 2018-08-03-introduction-and-map-b %})
+### 1. [Multi-Access]({% post_url 2014-08-21-future-of-content-multi-access %})
 You want your content your way. And you want to access your content in multiple ways.
