@@ -6,7 +6,7 @@ tags: [media, future, storytelling, research, series, start-here, human-computer
 excerpt: I introduce The Future of Digital Content series, which discusses six traits I believe will be at the heart what content will look like in the coming years.
 ---
 
-I am a researcher, storyteller, and technologist. Nowhere does that all come together more than in the exploration of how content is evolving. I research how people interact with content and education. I tell stories that are mixed-media and interactive. I build tools and apps that help authors and geeks work together to make awesome content experiences.
+I am a researcher, storyteller, and computer scientist. Nowhere does that all come together more than in the exploration of how content is evolving. I research how people interact with content and education. I tell stories that are mixed-media and interactive. I build tools and apps that help authors and geeks work together to make awesome content experiences.
 
 The lines are blurring between different kinds of content. Books are becoming websites. Music is meshing with film. Websites and apps are taking over.
 
