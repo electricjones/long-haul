@@ -9,12 +9,9 @@ excerpt: Content will provide the user/reader/viewer with powerful ways to shape
 ## The Future of Content
 I introduce The Future of Digital Content series, which discusses six traits I believe will be at the heart what content will look like in the coming years.
 - [Introduction to the Series]({% post_url 2014-08-03-series-future-of-content %})
-- [Multi-Access]({% post_url 2014-03-21-future-of-content-multi-access %})
+- [Multi-Access]({% post_url 2014-08-21-future-of-content-multi-access %})
 - [Mixed Media and Multimodal]({% post_url 2014-09-15-future-of-content-mixed-media %})
 - **Interactive**
-- [Collaborative]({% post_url 2014-10-20-future-of-content-collaborative %})
-- [Social]({% post_url 2014-11-20-future-of-content-social %})
-- [Immersive and Expansive]({% post_url 2015-01-07-future-of-content-immersive %})
 
 Content is changing, spurred by the digital revolution and guided by content-users through tools like social media. Content is changing for the better and I am excited to be a part of what's next.
 
@@ -63,4 +60,3 @@ Interestingly enough, many of the principles of mixed-media content apply to int
 -   [Infographics IV: Interactive #content is the future - Comms Axis](http://www.commsaxis.com/infographics-iv-interactive-content-future/)
 -   [Aesop Story Engine](http://aesopstoryengine.com/)
 
-_**Next up is [Collaborative]({% post_url 2014-10-20-future-of-content-collaborative %})**_

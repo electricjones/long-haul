@@ -24,3 +24,5 @@ You want your content your way. And you want to access your content in multiple 
 ### 2. [Mixed Media and Multimodal]({% post_url 2014-09-15-future-of-content-mixed-media %})
 Content will not just be one thing. A story will alternate between pictures, text, and audio. Articles will include videos. And they will engage more than just one or two senses.
 
+### 3. [Interactive]({% post_url 2014-10-02-future-of-content-interactive %})
+Bonus features and behind-the-scenes videos are interactive, but what about letting the reader actually change the story as it goes. Or movies where the audience talks with the characters. Oh, and personalized, too.
