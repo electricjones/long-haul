@@ -28,7 +28,7 @@ My primary "Craft Interests" involve New Forms of Computing (high performance an
 <a href="/assets/resume.pdf">See my resume</a> for more information in a more formal package.
 
 ## Education
-- <a href="www.omscs.gatech.edu/">**Master’s of Computer Science**</a> from Georgia Institute of Technology specializing in Computing Systems and Computational Perception & Robotics
+- <a href="https://www.omscs.gatech.edu/">**Master’s of Computer Science**</a> from Georgia Institute of Technology specializing in Computing Systems and Computational Perception & Robotics
 - **M.A. Anthropology**  from [University of Houston](https://uh.edu) where I conducted a ethnograpic research into fandom, digital identity, and computer-mediated storytelling.
 - **M.Ed. Educational Psychology** from [Drury University](https://drury.edu) where I did my thesis on Educational Storytelling and Computer Mediated Instruction.
 - **Computer Science Courses** in Advanced Programming, Computer Architecture, and Advanced Mathematics from the University of Houston and San Jacinto Community College.
