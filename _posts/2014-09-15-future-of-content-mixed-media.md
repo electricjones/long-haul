@@ -11,10 +11,6 @@ I introduce The Future of Digital Content series, which discusses six traits I b
 - [Introduction to the Series]({% post_url 2014-08-03-series-future-of-content %})
 - [Multi-Access]({% post_url 2014-03-21-future-of-content-multi-access %})
 - **Mixed Media and Multimodal**
-- [Interactive]({% post_url 2014-10-02-future-of-content-interactive %})
-- [Collaborative]({% post_url 2014-10-20-future-of-content-collaborative %})
-- [Social]({% post_url 2014-11-20-future-of-content-social %})
-- [Immersive and Expansive]({% post_url 2015-01-07-future-of-content-immersive %})
 
 We're paving a road to the Future of Content. The first brick was Multi-Access. We want our content wherever we are, whenever we want it. We talked about 1.) accessing the same content in multiple ways, 2.) linear content that mixes access methods, and 3.) non-linear content that mixes access methods.
 
@@ -63,4 +59,3 @@ Experiment with many different things: images, videos, sights, sounds, movement.
 -   [Multimodal digital storytelling](https://benjamins.com/#catalog/journals/rcl.11.2.10alo/details)
 -   [Multimodal Composing in Digital Storytelling](http://www.sciencedirect.com/science/article/pii/S8755461512000394)
 
-_**Next, [The Future of Content: Interactive]({% post_url 2014-10-02-future-of-content-interactive %})**_

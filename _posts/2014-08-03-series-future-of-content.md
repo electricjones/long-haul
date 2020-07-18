@@ -21,3 +21,6 @@ I focus **six traits of content in the future**. These traits are my roadmap in 
 ### 1. [Multi-Access]({% post_url 2014-08-21-future-of-content-multi-access %})
 You want your content your way. And you want to access your content in multiple ways.
 
+### 2. [Mixed Media and Multimodal]({% post_url 2014-09-15-future-of-content-mixed-media %})
+Content will not just be one thing. A story will alternate between pictures, text, and audio. Articles will include videos. And they will engage more than just one or two senses.
+
