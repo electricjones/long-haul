@@ -9,7 +9,7 @@ excerpt: Content will be of a single narrative universe across many presentation
 ## The Future of Content
 I introduce The Future of Digital Content series, which discusses six traits I believe will be at the heart what content will look like in the coming years.
 - [Introduction to the Series]({% post_url 2014-08-03-series-future-of-content %})
-- [Multi-Access]({% post_url 2014-03-21-future-of-content-multi-access %})
+- [Multi-Access]({% post_url 2014-08-21-future-of-content-multi-access %})
 - **Mixed Media and Multimodal**
 
 We're paving a road to the Future of Content. The first brick was Multi-Access. We want our content wherever we are, whenever we want it. We talked about 1.) accessing the same content in multiple ways, 2.) linear content that mixes access methods, and 3.) non-linear content that mixes access methods.
