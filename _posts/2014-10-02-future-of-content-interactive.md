@@ -11,7 +11,10 @@ I introduce The Future of Digital Content series, which discusses six traits I b
 - [Introduction to the Series]({% post_url 2014-08-03-series-future-of-content %})
 - [Multi-Access]({% post_url 2014-08-21-future-of-content-multi-access %})
 - [Mixed Media and Multimodal]({% post_url 2014-09-15-future-of-content-mixed-media %})
-- **Interactive**
+- [Interactive]({% post_url 2014-10-02-future-of-content-interactive %})
+- [Collaborative]({% post_url 2014-10-20-future-of-content-collaborative %})
+- [Social]({% post_url 2014-11-20-future-of-content-social %})
+- [Immersive and Expansive]({% post_url 2015-01-07-future-of-content-immersive %})
 
 Content is changing, spurred by the digital revolution and guided by content-users through tools like social media. Content is changing for the better and I am excited to be a part of what's next.
 

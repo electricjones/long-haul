@@ -8,13 +8,6 @@ excerpt: Content will be a social exxperience, signaling who we are and connecti
 
 ## The Future of Content
 I introduce The Future of Digital Content series, which discusses six traits I believe will be at the heart what content will look like in the coming years.
-- [Introduction to the Series]({% post_url 2014-08-03-series-future-of-content %})
-- [Multi-Access]({% post_url 2014-03-21-future-of-content-multi-access %})
-- [Mixed Media and Multimodal]({% post_url 2014-09-15-future-of-content-mixed-media %})
-- [Interactive]({% post_url 2014-10-02-future-of-content-interactive %})
-- [Collaborative]({% post_url 2014-10-20-future-of-content-collaborative %})
-- **Social**
-- [Immersive and Expansive]({% post_url 2015-01-07-future-of-content-immersive %})
 
 This may seem obvious to most people, after all Facebook and Twitter and all the rest have basically taken over the world. Of course our content will be promoted on social media. Of course authors will use twitter. Of course readers will review books online.
 
@@ -58,5 +51,3 @@ This is my favorite. The idea that readers can interact with fictional character
 
 #### And More Than We Can Imagine
 This is just the start. The future is going to be awesome.
-
-_**Finally, we see - [Immersive and Expansive]({% post_url 2015-01-07-future-of-content-immersive %})**_
