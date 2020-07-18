@@ -21,7 +21,8 @@ _You can see the finished version of this tutorial at [electricjones/data-manage
 
 
 ### Series Contents
-<!-- 1.  [Setting Up]({% post_url 2015-04-17-series-building-a-data-manager-part-1-setting-up %}) - Define our goals and get our skeleton in place
-2.  [Features and Contracts]({% post_url 2015-04-23-series-building-a-data-manager-part-2-features %}) - Define our API and get some core functionality
+1.  [Setting Up]({% post_url 2015-04-17-series-building-a-data-manager-part-1-setting-up %}) - Define our goals and get our skeleton in place
+<!-- 2.  [Features and Contracts]({% post_url 2015-04-23-series-building-a-data-manager-part-2-features %}) - Define our API and get some core functionality
 3.  [Dot Notation]({% post_url 2015-04-30-series-building-a-data-manager-part-3-dot-notation %}) - Dig deep into array structures (one.two.three) -->
+
 ***I talk through an example review. You can see the finished result in [Literature Review of Gamification]({% post_url 2018-09-06-gamification-literature-review %})***
