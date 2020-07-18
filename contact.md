@@ -6,7 +6,7 @@ title: Contact Electric Jones
 <div id="contact">
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
-    <p class="intro">Ask a question, partner, or just give a shout out. I love connecting with anyone from the gaming community.</p>
+    <p class="intro">Ask a question, partner, or just give a shout out. I love connecting with anyone from the community.</p>
   </div>
   <form action="https://formspree.io/electricjoneslab@gmail.com" method="POST">
     <label for="name">Name</label>
