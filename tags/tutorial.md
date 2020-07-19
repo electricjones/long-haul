@@ -1,5 +1,5 @@
 ---
 layout: topic
-title: "Tag: literature-reviews"
-tag: literature-reviews
+title: "Tag: tutorial"
+tag: tutorial
 ---

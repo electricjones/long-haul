@@ -1,5 +1,5 @@
 ---
 layout: topic
-title: "Tag: media"
+title: "Tag: series"
 tag: series
 ---
