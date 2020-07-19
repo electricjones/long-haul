@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Building a Data Manager Part III - Dot Notation
+title:  "Data Manager: Dot Notation"
 date:   2015-04-30 -0600
 image: datablog_stall.jpg
-tags: [php, library, tutorial]
+tags: [php, tutorial]
 excerpt: Creating the features of a Data Manager, implementing interfaces, and more TDD.
 ---
 

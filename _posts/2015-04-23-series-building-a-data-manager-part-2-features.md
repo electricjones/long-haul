@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Building a Data Manager Part II - Features and Contracts
+title:  "Data Manager: Features and Contracts"
 date:   2015-04-23 -0600
 image: datablog_stall.jpg
-tags: [php, library, tutorial]
+tags: [php, tutorial]
 excerpt: Creating the features of a Data Manager, implementing interfaces, and more TDD.
 ---
 

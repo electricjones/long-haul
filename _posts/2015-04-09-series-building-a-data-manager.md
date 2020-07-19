@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Series - Building a Data Manager
+title:  "Series: Building a Data Manager in PHP"
 date:   2015-04-09
 image: datablog_stall.jpg
-tags: [php, library, tutorial]
+tags: [php, library, series]
 excerpt: An introduction to TDD and Library Building in PHP by creating a full data manager with array access, dot notation, and helpers.
 ---
 
