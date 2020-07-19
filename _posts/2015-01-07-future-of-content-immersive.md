@@ -2,6 +2,7 @@
 layout: post
 title:  The Future of Content - Immersive
 date:   2014-11-20 -0600
+image: blue_moon_4.jpg
 tags: [media, future, storytelling, research, human-computer-interaction]
 excerpt: Content will be move far beyond simple, single narratives into universes of possibilities.
 ---

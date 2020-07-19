@@ -2,6 +2,7 @@
 layout: post
 title: "Series - The Future of Content"
 date: 2014-08-03 -0600
+image: blue_moon_4.jpg
 tags: [media, future, storytelling, research, series, start-here, human-computer-interaction]
 excerpt: I introduce The Future of Digital Content series, which discusses six traits I believe will be at the heart what content will look like in the coming years.
 ---

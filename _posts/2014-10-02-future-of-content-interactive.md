@@ -2,6 +2,7 @@
 layout: post
 title:  The Future of Content - Interactive
 date:   2014-10-02 -0600
+image: blue_moon_4.jpg
 tags: [media, future, storytelling, research, human-computer-interaction, interactive]
 excerpt: Content will provide the user/reader/viewer with powerful ways to shape the narrative, experience, and the world itself, creating entirely unique experiences.
 ---
@@ -11,7 +12,7 @@ I introduce The Future of Digital Content series, which discusses six traits I b
 - [Introduction to the Series]({% post_url 2014-08-03-series-future-of-content %})
 - [Multi-Access]({% post_url 2014-08-21-future-of-content-multi-access %})
 - [Mixed Media and Multimodal]({% post_url 2014-09-15-future-of-content-mixed-media %})
-- [Interactive]({% post_url 2014-10-02-future-of-content-interactive %})
+- **Interactive**
 - [Collaborative]({% post_url 2014-10-20-future-of-content-collaborative %})
 - [Social]({% post_url 2014-11-20-future-of-content-social %})
 - [Immersive and Expansive]({% post_url 2015-01-07-future-of-content-immersive %})

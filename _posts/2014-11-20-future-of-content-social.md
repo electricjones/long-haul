@@ -2,12 +2,20 @@
 layout: post
 title:  The Future of Content - Social
 date:   2014-11-20 -0600
+image: blue_moon_4.jpg
 tags: [media, future, storytelling, research, human-computer-interaction]
 excerpt: Content will be a social exxperience, signaling who we are and connecting us to a diverse set of people.
 ---
 
 ## The Future of Content
 I introduce The Future of Digital Content series, which discusses six traits I believe will be at the heart what content will look like in the coming years.
+- [Introduction to the Series]({% post_url 2014-08-03-series-future-of-content %})
+- [Multi-Access]({% post_url 2014-08-21-future-of-content-multi-access %})
+- [Mixed Media and Multimodal]({% post_url 2014-09-15-future-of-content-mixed-media %})
+- [Interactive]({% post_url 2014-10-02-future-of-content-interactive %})
+- [Collaborative]({% post_url 2014-10-20-future-of-content-collaborative %})
+- **Social**
+- [Immersive and Expansive]({% post_url 2015-01-07-future-of-content-immersive %})
 
 This may seem obvious to most people, after all Facebook and Twitter and all the rest have basically taken over the world. Of course our content will be promoted on social media. Of course authors will use twitter. Of course readers will review books online.
 

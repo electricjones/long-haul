@@ -2,12 +2,20 @@
 layout: post
 title:  Series - The Future of Content
 date:   2014-09-15 -0600
+image: blue_moon_4.jpg
 tags: [media, future, storytelling, research, human-computer-interaction]
 excerpt: Content will be of a single narrative universe across many presentation platforms. 
 ---
 
 ## The Future of Content
 I introduce The Future of Digital Content series, which discusses six traits I believe will be at the heart what content will look like in the coming years.
+- [Introduction to the Series]({% post_url 2014-08-03-series-future-of-content %})
+- [Multi-Access]({% post_url 2014-08-21-future-of-content-multi-access %})
+- **Mixed Media and Multimodal**
+- [Interactive]({% post_url 2014-10-02-future-of-content-interactive %})
+- [Collaborative]({% post_url 2014-10-20-future-of-content-collaborative %})
+- [Social]({% post_url 2014-11-20-future-of-content-social %})
+- [Immersive and Expansive]({% post_url 2015-01-07-future-of-content-immersive %})
 
 We're paving a road to the Future of Content. The first brick was Multi-Access. We want our content wherever we are, whenever we want it. We talked about 1.) accessing the same content in multiple ways, 2.) linear content that mixes access methods, and 3.) non-linear content that mixes access methods.
 
