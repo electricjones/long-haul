@@ -19,6 +19,9 @@ I hope this is helpful to someone else, but if not, it'll be good for my O.C.D. 
 
 The list is sorted from most recent to those I took first.
 
+### Georgia Tech
+I have been accepted into the Master's of Science in Computer Science at Georgia Tech. It's a very prestigious program and I'm really looking forward to the challenge. There will be more here, but I think I will dedicate entire posts to the work I do in those classes
+
 ### Official Classes
 #### Discrete Math
 **Summer 2020 - Prerequisite**
