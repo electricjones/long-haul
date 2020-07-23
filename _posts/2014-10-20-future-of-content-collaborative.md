@@ -3,7 +3,7 @@ layout: post
 title:  "Future Content: Collaborative"
 date:   2014-10-20 -0600
 image: blue_moon_4.jpg
-tags: [media, future, storytelling, research, human-computer-interaction, collaboration]
+tags: [media, storytelling, human-computer-interaction, collaboration]
 excerpt: Content will be a collaboration, both of multiple creators and of the creators with the audience.
 ---
 

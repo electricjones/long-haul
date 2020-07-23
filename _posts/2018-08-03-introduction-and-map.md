@@ -1,14 +1,34 @@
 ---
 layout: post
 title:  Introduction and Map
-date:   2018-08-03 -0600
+date:   2020-06-20 -0600
 image: Map.jpeg
 tags: [start-here, guides, constantly-updated]
 excerpt: What to expect and how to navigate this blog.
 ---
 
-***Last updated on September 25, 2018***
+<p class="meta" style="align-content: center; text-align: center;">
+  <strong>Topics</strong><br /> | 
+  {% if site.data.tags.manifest %}
+    {% for tag in site.data.tags.manifest %}
+    <a href="/tags/{{ tag }}.html">{{ tag }}</a> |
+    {% endfor %}
+  {% endif %}
+</p>
 
+***Last updated on July 20, 2020***
+
+I have wandered more than a bit in my computer science interests. I wrote my first line of code in fourth grade (Apple IIe - Basic) and haven't looked back. Since that time, I have touched every corner of computer science and completed several social science degrees. In parallel, I have written and studied stories of all kinds, in many mediums. I have experimented, researched, build, and collaborated in all these fields.
+
+But I kept them largely separate.
+
+As I look into my future, I see a blending of these three worlds. That is the purpose of my blog. To reveal my insights (bought by blood, sweat, and sleepless nights) into the marriage of story, social, and computer science to tackle some of humanities most complex challenges.
+
+Most of the specific challenges I'm interested in center around the ocean (cliimage change, conservation, sea-going drones, and plastic pollution), but I am also deeply passionate about Gaming as a unique way to blend my three worlds.
+
+Below is my old introduction from a time when I was focusing more on gaming. I was interested, actually, in building a PhD in Game Sciences. I have since focused my interests on computer science and conservation, but still have a special place in my heart for advancing games. Much of this blog will contain my side-projects and musings. I have maintained my old introduction for historical purposes.
+
+### Game Sciences
 - More than 150 million Americans play video games, and 64 percent of American households are home to at least one person who plays video games regularly, or at least three hours per week.
 - 60 percent of Americans play video games daily.
 - The average gamer is 34 years old and 72 percent are age 18 or older. Women age 18 and older represent a significantly greater portion of the video game-playing population (33 percent) than boys under age 18 (17 percent).
@@ -49,12 +69,3 @@ There are a couple specific features to be aware of.
 
 Gaming is an important topic -- a central part of the human experience for virtually all people across all time.
 Gaming is worth studying, and that research **is being done**. Join us!
-
-<p class="meta" style="align-content: center; text-align: center;">
-  <strong>Topics</strong><br /> | 
-  {% if site.data.tags.manifest %}
-    {% for tag in site.data.tags.manifest %}
-    <a href="/tags/{{ tag }}.html">{{ tag }}</a> |
-    {% endfor %}
-  {% endif %}
-</p>
