@@ -25,13 +25,15 @@ I have been accepted into the Master's of Science in Computer Science at Georgia
 ### Official Classes
 #### Discrete Math
 **Summer 2020 - Prerequisite**
-
+This was a fun, if not very challenging course. It actually involved some python programming which wasn't what I was hoping for. I really wanted a much more "theoretical" exploration. But I have a great textbook so will keep going on my own.
 
 #### Precalculus (Formal)
 **Spring 2020- Prerequisite**
+After my refresher, this was a breeze, though a fair bit of work. I feel much more comfortable moving onto Calculus and (ultimately) Linear Algebra now.
 
 ### Statistics
 **Fall 2020 - Prerequisite**
+This was not a probability and statistics course, it was an introduction to statistics. So it was mostly about how to read stats and various terms and formulas. It really wasn't about the calculation. With my background in science this was a lot of a brush up for me, but still a good use of my time. I really enjoyed the professor.
 
 ### Computer Architecture
 **Spring 2019**
